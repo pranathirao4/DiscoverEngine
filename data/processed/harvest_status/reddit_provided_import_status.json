@@ -1,0 +1,8 @@
+{
+  "status": "ok",
+  "scanned_posts": 100,
+  "kept": 0,
+  "note": "Expect few or zero rows: dump is mostly non-googlephotos threads.",
+  "interpretation": "Zero kept rows means the dump failed the Google Photos retrieval filter. It is not evidence that users have no Reddit problem.",
+  "sample_json_ingested": false
+}

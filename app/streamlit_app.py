@@ -17,11 +17,12 @@ if str(SRC) not in sys.path:
 
 PROCESSED = ROOT / "data" / "processed"
 RAW = ROOT / "data" / "raw"
+HARVEST = PROCESSED / "harvest_status"
 CORPUS_ALL = PROCESSED / "corpus_all.csv"
 HARVEST_STATUS_FILES = (
-    ("Play Store", RAW / "play_harvest_status.json"),
-    ("Arctic Shift", RAW / "reddit_arctic_harvest_status.json"),
-    ("Provided JSON", RAW / "reddit_provided_import_status.json"),
+    ("Play Store", HARVEST / "play_harvest_status.json", RAW / "play_harvest_status.json"),
+    ("Arctic Shift", HARVEST / "reddit_arctic_harvest_status.json", RAW / "reddit_arctic_harvest_status.json"),
+    ("Provided JSON", HARVEST / "reddit_provided_import_status.json", RAW / "reddit_provided_import_status.json"),
 )
 SLICE_CSV = PROCESSED / "thin_slice_labeled.csv"
 SLICE_COUNTS = PROCESSED / "thin_slice_counts.json"
@@ -47,6 +48,13 @@ EVIDENCE_COLUMNS = [
 ]
 
 
+def _existing(*paths: Path) -> Path | None:
+    for path in paths:
+        if path.exists():
+            return path
+    return None
+
+
 def _read(path: Path) -> list[dict]:
     if not path.exists():
         return []
@@ -58,8 +66,9 @@ def page_overview() -> None:
     st.title("Overview")
     st.caption("Harvest health and in-scope counts. Not average stars. No success-rate claims.")
     st.subheader("Harvest status")
-    for label, path in HARVEST_STATUS_FILES:
-        if not path.exists():
+    for label, *candidates in HARVEST_STATUS_FILES:
+        path = _existing(*candidates)
+        if path is None:
             st.warning(f"{label}: no status recorded yet.")
             continue
         payload = json.loads(path.read_text(encoding="utf-8"))
@@ -126,17 +135,30 @@ def page_evidence() -> None:
     )
     if st.button("Ask", type="primary"):
         from ask import ask as ask_corpus
+        from common import load_env
 
+        load_env()
         with st.spinner("Retrieving evidence and asking Groq…"):
-            result = ask_corpus(question)
-        if result.get("enough_evidence"):
+            try:
+                result = ask_corpus(question)
+            except Exception as exc:
+                message = str(exc)
+                if "GROQ_API_KEY" in message:
+                    st.error(
+                        "Ask needs GROQ_API_KEY. Locally it belongs in `env`. "
+                        "On Streamlit Community Cloud, add it under Settings → Secrets."
+                    )
+                else:
+                    st.error("Ask failed. The corpus answer was not produced.")
+                result = None
+        if result is not None and result.get("enough_evidence"):
             st.success(result.get("answer") or "")
-        else:
+        elif result is not None:
             st.warning(result.get("answer") or "Not enough evidence.")
-        cites = result.get("citation_ids") or []
+        cites = (result or {}).get("citation_ids") or []
         if cites:
             st.write("Citations: " + ", ".join(cites))
-        hits = result.get("hits") or []
+        hits = (result or {}).get("hits") or []
         if hits:
             st.dataframe(
                 [
@@ -152,7 +174,7 @@ def page_evidence() -> None:
                 ],
                 use_container_width=True,
             )
-        if result.get("limitations"):
+        if result and result.get("limitations"):
             st.caption(result["limitations"])
 
     st.divider()

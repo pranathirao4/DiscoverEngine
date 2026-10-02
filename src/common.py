@@ -51,6 +51,24 @@ def load_env() -> None:
             existing = os.environ.get(key, "")
             if not existing.strip():
                 os.environ[key] = value
+    _load_streamlit_secrets()
+
+
+def _load_streamlit_secrets() -> None:
+    """Streamlit Cloud injects keys via st.secrets, not the local env file."""
+    try:
+        import streamlit as st
+
+        secrets = st.secrets
+    except Exception:
+        return
+    for key in ("GROQ_API_KEY", "GROQ_MODEL", "BGE_MODEL", "YOUTUBE_API_KEY"):
+        try:
+            value = secrets[key]
+        except Exception:
+            continue
+        if value and not os.environ.get(key, "").strip():
+            os.environ[key] = str(value)
 
 
 def load_taxonomy() -> dict:

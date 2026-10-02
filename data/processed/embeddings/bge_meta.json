@@ -1,0 +1,14 @@
+{
+  "provider": "local_bge",
+  "model_id": "BAAI/bge-small-en-v1.5",
+  "openai_used": false,
+  "groq_used_for_embeddings": false,
+  "input": "D:\\PROJECT\\AI_Discovery\\data\\processed\\thin_slice_labeled.csv",
+  "n_vectors": 200,
+  "kinds": [
+    "structure",
+    "text"
+  ],
+  "dim": 384,
+  "path": "D:\\PROJECT\\AI_Discovery\\data\\processed\\embeddings\\bge_vectors.jsonl"
+}

@@ -1,0 +1,21 @@
+{
+  "discover": {
+    "status": "ok",
+    "unique_candidates": 1777
+  },
+  "collect": {
+    "status": "ok",
+    "rows": 4577,
+    "posts_saved": 577,
+    "comments_saved": 4000
+  },
+  "status_page": {
+    "status_page": "up",
+    "http": 200,
+    "detail": "HTTP 200"
+  },
+  "source": "reddit_arctic_shift",
+  "interpretation": "A blocked or empty Arctic Shift harvest means the archive did not answer. It is not evidence that users have no Reddit problem.",
+  "recorded_at": "2026-10-02T17:33:25Z",
+  "status": "ok"
+}

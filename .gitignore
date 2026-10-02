@@ -5,7 +5,10 @@ __pycache__/
 data/raw/
 data/processed/*.sqlite
 data/processed/groq_cache/
-data/processed/embeddings/
+data/processed/embeddings/**
+!data/processed/embeddings/bge_vectors.jsonl
+!data/processed/embeddings/bge_meta.json
+.streamlit/secrets.toml
 data/processed/ask_log.jsonl
 env
 .env

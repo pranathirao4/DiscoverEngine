@@ -68,8 +68,7 @@ class GroqClient:
         for attempt in range(1, 6):
             try:
                 data = self._complete_once(system, user, response_format=True)
-                if not path.exists():
-                    path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+                _write_cache(path, data)
                 return data
             except Exception as exc:  # noqa: BLE001 — Groq SDK errors vary by version
                 last_error = exc
@@ -77,8 +76,7 @@ class GroqClient:
                 if "json_validate_failed" in message or "failed to validate json" in message:
                     try:
                         data = self._complete_once(system, user, response_format=False)
-                        if not path.exists():
-                            path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+                        _write_cache(path, data)
                         return data
                     except Exception as fallback_exc:  # noqa: BLE001
                         last_error = fallback_exc
@@ -116,6 +114,15 @@ class GroqClient:
         response = self._sdk().chat.completions.create(**kwargs)
         text = response.choices[0].message.content or "{}"
         return _parse_json_object(text)
+
+
+def _write_cache(path: Path, data: dict) -> None:
+    """Best-effort. A read-only deploy filesystem must not drop the answer."""
+    try:
+        if not path.exists():
+            path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    except OSError:
+        return
 
 
 def _retry_seconds(message: str, fallback: float) -> float:

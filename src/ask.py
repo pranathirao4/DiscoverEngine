@@ -138,15 +138,18 @@ def ask(question: str) -> dict:
         if result.get("enough_evidence") is False and not result.get("answer"):
             result["answer"] = "Not enough evidence in the corpus."
 
-    PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     log_row = {
         "asked_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "question": question,
         "enough_evidence": result.get("enough_evidence"),
         "citation_ids": result.get("citation_ids"),
     }
-    with ASK_LOG.open("a", encoding="utf-8") as handle:
-        handle.write(json.dumps(log_row, ensure_ascii=False) + "\n")
+    try:
+        PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+        with ASK_LOG.open("a", encoding="utf-8") as handle:
+            handle.write(json.dumps(log_row, ensure_ascii=False) + "\n")
+    except OSError:
+        pass
     return result
 
 
