@@ -1,0 +1,10 @@
+{
+  "decision": "incomplete",
+  "unique_in_scope": 9,
+  "threshold": 150,
+  "labeled_rows": 3253,
+  "llm_labeled_rows": 109,
+  "remaining_for_groq": 1524,
+  "blocker": "groq_daily_token_limit",
+  "note": "Not a go or a no-go. Groq on_demand daily token cap for openai/gpt-oss-20b is 200000 and was exhausted on 2026-10-02. 3144 rows with no retrieval wording were labeled out_of_scope without the model. 1524 retrieval-hit rows are still ungated. Re-run python src/cli.py gate when the quota resets. This cap is not evidence that users have no retrieval problem."
+}

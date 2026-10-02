@@ -1,0 +1,30 @@
+# Locked model choices. Do not call OpenAI for chat or embeddings.
+
+llm:
+  provider: groq
+  # Chat/completions only. Override id with GROQ_MODEL in env.
+  default_model: openai/gpt-oss-20b
+  uses:
+    - relevance_gate
+    - rer_extraction
+    - synthesis
+  never:
+    - openai_api
+    - openai_embeddings
+
+embeddings:
+  provider: local_bge
+  # BAAI BGE via sentence-transformers. Not OpenAI. Not Groq nomic.
+  model_id: BAAI/bge-small-en-v1.5
+  normalize: true
+  query_prefix: "Represent this sentence for searching: "
+  uses:
+    - text_embedding
+    - structure_embedding
+    - optional_cluster
+    - optional_rag
+  never:
+    - openai_embeddings
+    - groq_nomic
+    - text-embedding-3-small
+    - text-embedding-ada-002

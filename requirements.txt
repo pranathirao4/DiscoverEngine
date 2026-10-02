@@ -1,0 +1,6 @@
+requests>=2.31.0
+groq>=0.9.0
+pyyaml>=6.0
+google-play-scraper>=1.2.7
+streamlit>=1.40.0
+sentence-transformers>=3.0.0

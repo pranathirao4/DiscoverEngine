@@ -1,0 +1,25 @@
+{
+  "n": 3253,
+  "complete": false,
+  "relevance": {
+    "out_of_scope": 3238,
+    "in_scope": 9,
+    "adjacent": 6
+  },
+  "confidence": {
+    "high": 94,
+    "low": 3157,
+    "medium": 2
+  },
+  "failure_type": {
+    "wrong_results": 7,
+    "other": 2,
+    "not_indexed_not_found": 3,
+    "purpose_or_context_unsupported": 1
+  },
+  "unique_in_scope": 9,
+  "threshold": 150,
+  "decision": "incomplete",
+  "csv_labeled": "D:\\PROJECT\\AI_Discovery\\data\\processed\\corpus_labeled.csv",
+  "csv_relevant": "D:\\PROJECT\\AI_Discovery\\data\\processed\\corpus_relevant.csv"
+}

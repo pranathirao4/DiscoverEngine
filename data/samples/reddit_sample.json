@@ -1,0 +1,48 @@
+{
+  "format": "apify_reddit_export",
+  "note": "Schema example only. Not real user data. The importer maps these fields onto the common schema: source, id, date, text, url, rating, country_or_subreddit, type.",
+  "field_map": {
+    "source": "always reddit",
+    "id": "id or parsedId (stable Reddit fullname or post/comment id)",
+    "date": "createdAt",
+    "text": "title plus body for posts; body for comments",
+    "url": "url",
+    "rating": "null for Reddit",
+    "country_or_subreddit": "communityName or parsedCommunityName without r/",
+    "type": "dataType post -> reddit_post; comment -> reddit_comment",
+    "parent_source_url": "the docs/sources.md search or thread URL that justified this row"
+  },
+  "items": [
+    {
+      "id": "t3_examplepostid",
+      "parsedId": "examplepostid",
+      "dataType": "post",
+      "url": "https://www.reddit.com/r/googlephotos/comments/1vcu3cs/finding_specific_photo_in_a_large_album/",
+      "parent_source_url": "https://www.reddit.com/r/googlephotos/comments/1vcu3cs/finding_specific_photo_in_a_large_album/",
+      "username": "REDACTED",
+      "communityName": "r/googlephotos",
+      "parsedCommunityName": "googlephotos",
+      "title": "Finding specific photo in a large album",
+      "body": "I only remember the occasion, not the date. How do I find one photo in a large album?",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "numberOfComments": 2,
+      "upVotes": 0
+    },
+    {
+      "id": "t1_examplecommentid",
+      "parsedId": "examplecommentid",
+      "dataType": "comment",
+      "postId": "t3_examplepostid",
+      "parentId": "t3_examplepostid",
+      "url": "https://www.reddit.com/r/googlephotos/comments/1vcu3cs/finding_specific_photo_in_a_large_album/",
+      "parent_source_url": "https://www.reddit.com/r/googlephotos/comments/1vcu3cs/finding_specific_photo_in_a_large_album/",
+      "username": "REDACTED",
+      "communityName": "r/googlephotos",
+      "parsedCommunityName": "googlephotos",
+      "title": null,
+      "body": "Search by people or place if that is all you remember.",
+      "createdAt": "2025-01-01T01:00:00.000Z",
+      "upVotes": 0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "n": 100,
+  "relevance": {
+    "out_of_scope": 81,
+    "adjacent": 3,
+    "in_scope": 16
+  },
+  "confidence": {
+    "high": 90,
+    "low": 6,
+    "medium": 4
+  },
+  "failure_type": {
+    "wrong_results": 5,
+    "purpose_or_context_unsupported": 1,
+    "date_or_location_unknown": 1,
+    "not_indexed_not_found": 5,
+    "other": 4,
+    "photo_type_mismatch": 1
+  },
+  "csv": "D:\\PROJECT\\AI_Discovery\\data\\processed\\thin_slice_labeled.csv"
+}

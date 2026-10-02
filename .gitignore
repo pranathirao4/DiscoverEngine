@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/raw/
+data/processed/*.sqlite
+data/processed/groq_cache/
+data/processed/embeddings/
+data/processed/ask_log.jsonl
+env
+.env

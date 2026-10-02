@@ -1,0 +1,87 @@
+# Closed vocabularies for labeling. Prompts must import these lists — do not duplicate enums in code.
+# Ask before changing definitions in docs/problemStatement.md.
+
+version: 1
+
+relevance:
+  - in_scope
+  - adjacent
+  - out_of_scope
+
+confidence:
+  - high
+  - medium
+  - low
+
+memory_anchors:
+  - person
+  - place
+  - event_occasion
+  - rough_time
+  - purpose_context
+  - emotion
+  - visual_appearance
+  - photo_type
+
+forgotten_anchors:
+  - exact_date
+  - location_name
+  - album
+  - keyword_filename
+
+retrieval_behaviors:
+  - keyword_trial_and_error
+  - scroll_timeline
+  - search_by_person
+  - search_by_place
+  - ask_others_or_other_apps
+  - give_up
+
+# Hypotheses only — data may add or reject these.
+failure_types:
+  - not_indexed_not_found
+  - wrong_results
+  - too_many_results
+  - cannot_express_query
+  - date_or_location_unknown
+  - photo_type_mismatch
+  - purpose_or_context_unsupported
+  - other
+
+photo_types:
+  - screenshot
+  - document
+  - receipt
+  - medical
+  - travel
+  - kids
+  - camera_photo
+  - unknown
+
+exclude_reasons:
+  - storage_quota_only
+  - editor_feature
+  - crash_bug
+  - precise_query_failed
+  - sync_or_deletion_bug
+  - not_google_photos
+  - medical_or_mental_health_subreddit
+
+utterance_types:
+  - play_review
+  - app_store_review
+  - reddit_post
+  - reddit_comment
+  - youtube_comment
+  - youtube_transcript_segment
+
+# Common schema required on every source (problem statement).
+common_schema_fields:
+  - source
+  - id
+  - date
+  - text
+  - url
+  - rating
+  - country_or_subreddit
+  - type

@@ -1,0 +1,1255 @@
+source,id,date,text,url,rating,country_or_subreddit,type,parent_post_id,search_queries,relevance,confidence,exclude_reason,rationale,failure_type,photo_type,memory_anchors,forgotten_anchors,retrieval_behaviors,quotes
+play,75520297-004a-4015-aa1f-4ead1791dc27,2026-10-01T20:50:09Z,"Face detection not working at all for most photos. I've already tried everything - clearing cache, data etc. Lots of people with same problem so it's just not my device (Pixel 10 Pro XL). Edit : The feature is 'on' and supported in my region. So there's a bug on your side.",https://play.google.com/store/apps/details?id=com.google.android.apps.photos,1,us,play_review,,,out_of_scope,high,,"The user is reporting a bug with face detection in Google Photos, not attempting to retrieve a specific photo or memory. This falls outside the incomplete-memory retrieval scope.",,,[],[],[],[]
+play,2f7b5d4d-ff31-40b5-ba6d-407efdc4fb34,2026-10-01T15:35:29Z,"After editing a photo, I can no longer share it, add it to an album or edit it again. The buttons at the bottom don't work after the initial edit. Some photos added to albums appear black in those albums and I cannot see them.",https://play.google.com/store/apps/details?id=com.google.android.apps.photos,1,us,play_review,,,out_of_scope,high,editor_feature,"The user reports a bug where editing a photo disables sharing, album addition, and further editing, and some photos appear black in albums. This is an editor feature issue, not an incomplete-memory retrieval problem.",,,[],[],[],[]
+play,64c97a8f-7a66-4802-8fdd-dd9dbc1d4878,2026-10-01T14:29:57Z,"Earlier this app was good because earlier it had a search option, now when I look at any photo it takes a lot of time, earlier I used to search by writing the name of the photo. Nor is there any option to change the feature photo.",https://play.google.com/store/apps/details?id=com.google.android.apps.photos,1,us,play_review,,,out_of_scope,high,,"The user is complaining about the search feature’s performance and lack of name-based search, not attempting to retrieve a specific photo with incomplete memory.",,,[],[],[],[]
+play,df08fdad-00d6-4af2-867c-3cc9c93ddc93,2026-10-01T09:08:57Z,Photos are personal data. Why is it so hard to keep a copy on a local PC? I can't even find a place in Google Drive where my Samsung Gallery synced Photos are stored.,https://play.google.com/store/apps/details?id=com.google.android.apps.photos,1,us,play_review,,,out_of_scope,low,,"User is asking where synced photos are stored in Google Drive, not trying to retrieve a specific photo with incomplete memory.",,,[],[],[],[]
+play,51039961-283e-43c9-9d4a-273972ce8bde,2026-10-01T08:42:01Z,"Google photos app has been terrible in the past week or so. I am wondering if it has anything to do with the latest app update? For photos taken in the past week or so, faces are no longer being recognised or grouped. Hope Google will fix soon. I am particularly dissaointed as I am a paying customer, and not using app for free.",https://play.google.com/store/apps/details?id=com.google.android.apps.photos,1,us,play_review,,,out_of_scope,high,,"User reports a bug with face recognition in recent photos, not a request to retrieve a specific photo.",,,[],[],[],[]
+play,b6c2f277-93d7-4427-9169-3c28f0f23ca7,2026-10-01T03:34:12Z,"this app has gone SO downhill. the export frame feature no longer works properly. it chooses some random frame instead of the one I'm trying to export. also, the search function is garbage now. it used to be SO GOOD WHAT HAPPENED. you literally SUCK now. the search feature BARELY works and is SO SLOW. why did you have to ruin such a good thing?!",https://play.google.com/store/apps/details?id=com.google.android.apps.photos,1,us,play_review,,,adjacent,low,,"User is complaining about search performance and export frame issues, not about incomplete-memory retrieval of a specific photo.",wrong_results,unknown,"[""emotion"", ""purpose_context""]",[],"[""keyword_trial_and_error""]","[""SO downhill"", ""export frame feature no longer works properly"", ""it chooses some random frame instead of the one I'm trying to export"", ""search function is garbage now"", ""used to be SO GOOD WHAT HAPPENED"", ""SUCK now"", ""search feature BARELY works and is SO SLOW"", ""why did you have to ruin such a good thing""]"
+play,783d1e27-5a82-4115-a271-3a40bab241c4,2026-09-30T23:03:13Z,I cannot turn off the background music during the memories feature. Plays over the sound in videos as well. This needs to be disabled. Also will not keep all of my pictures in one folder. Auto sets them to different places. I have to search around to find what I am looking for.,https://play.google.com/store/apps/details?id=com.google.android.apps.photos,1,us,play_review,,,in_scope,high,,"The user is unable to locate their photos because Google Photos automatically places them in different folders, making it difficult to find them. This indicates incomplete-memory retrieval— the user knows the photos exist but cannot supply a precise query to locate them.",purpose_or_context_unsupported,unknown,"[""purpose_context"", ""emotion""]",[],"[""keyword_trial_and_error""]","[""I cannot turn off the background music during the memories feature."", ""Plays over the sound in videos as well."", ""This needs to be disabled."", ""Also will not keep all of my pictures in one folder."", ""Auto sets them to different places."", ""I have to search around to find what I am looking for.""]"
+play,ca3ed63d-cf19-49ae-b285-a03b192e08d4,2026-09-30T10:52:58Z,"tolong minimal kalo fitur free up space bisa di undo.. masa haru download ulang semua foto foto yang udah dihapus.. ditambah tanggalan nya hilang, foto screenshot, foto kamera semua nya kecampur di 1 folder beberapa screenshot juga hilang",https://play.google.com/store/apps/details?id=com.google.android.apps.photos,2,us,play_review,,,out_of_scope,high,sync_or_deletion_bug,"The user is complaining about photos being deleted, missing dates, and needing to re-download them, which indicates a sync or deletion issue rather than an incomplete-memory retrieval request.",,,[],[],[],[]
+play,937bc7dc-ae60-4021-ae55-66dce6580751,2026-09-29T11:12:14Z,i don't like this update they have taken out some of my favorite options and it doesn't the option to change your favorite photo to Facebook profile i hate that please bring it back,https://play.google.com/store/apps/details?id=com.google.android.apps.photos,2,us,play_review,,,out_of_scope,high,editor_feature,"User is complaining about a missing feature after an update, not about searching for a photo.",,,[],[],[],[]
+play,b8767f19-d040-41f2-83a0-2d39f697538f,2026-09-28T18:18:37Z,old photo,https://play.google.com/store/apps/details?id=com.google.android.apps.photos,2,us,play_review,,,in_scope,medium,,"The user is looking for an old photo in Google Photos but provides no specific details such as date, filename, album, or location, indicating incomplete memory retrieval.",date_or_location_unknown,unknown,"[""rough_time""]",[],"[""keyword_trial_and_error""]","[""old photo""]"
+play,0e0d64c8-bc5b-4119-859d-395992712f54,2026-09-27T12:26:04Z,please added video stabilize. after update this option not showing.,https://play.google.com/store/apps/details?id=com.google.android.apps.photos,2,us,play_review,,,out_of_scope,high,editor_feature,"The user is reporting a missing video stabilization option after an update, which is a feature request/bug report, not an attempt to retrieve a photo or video from Google Photos using incomplete memory.",,,[],[],[],[]
+play,ff24eb85-b289-4449-b20c-a29d30a684ad,2026-10-01T20:25:38Z,Its not easy to trace back yoyr old photos you've stored in app except that its ok,https://play.google.com/store/apps/details?id=com.google.android.apps.photos,3,us,play_review,,,in_scope,high,,"The user states difficulty in locating old photos stored in the app, indicating they believe the photos exist but cannot provide a precise query (date, album, etc.). This matches the incomplete-memory retrieval scenario.",not_indexed_not_found,unknown,[],[],[],"[""Its not easy to trace back yoyr old photos you've stored in app except that its ok""]"
+play,a184bcb2-7e02-4f67-bb68-0a813165a5a6,2026-10-01T17:25:07Z,why it's not showing wordrobe option,https://play.google.com/store/apps/details?id=com.google.android.apps.photos,3,us,play_review,,,out_of_scope,high,editor_feature,"The user is asking why the wardrobe option is not showing, which relates to an editor feature in Google Photos, not an incomplete-memory retrieval scenario.",,,[],[],[],[]
+play,8369e4a7-c689-4eee-90e6-a87a862a43ae,2026-09-30T05:36:21Z,"So I turned off and then back on photo grouping, and all the previous created album with faces has been deleted, and now it's not even showing option to add face on any picture, it's just so frustrating.",https://play.google.com/store/apps/details?id=com.google.android.apps.photos,3,us,play_review,,,out_of_scope,high,,"User is reporting a bug with photo grouping and face albums, not attempting to retrieve a specific photo.",,,[],[],[],[]
+play,e0a22bda-cc48-4a9d-8a4e-86e0c7045f44,2026-09-29T17:20:19Z,"when my ex girl friend hacked my Facebook and stuff, she just took all my stuff. my oldest brother passed away Christmas eve, I had pictures from years of family thing you do with family throughout the year. those pictures of my brother being taken it's really done something to me I can't explain. I told Facebook and meta. thay just blowed me off. anything you can do to help get them back sure would be appreciated and a true blessing. Thanks",https://play.google.com/store/apps/details?id=com.google.android.apps.photos,3,us,play_review,,,out_of_scope,high,not_google_photos,"The user is requesting help retrieving photos from Facebook after a hack, not from Google Photos. Therefore the request is outside the scope of incomplete-memory retrieval for Google Photos.",,,[],[],[],[]
+play,68521ec1-7d9e-4a65-b61a-46a20e4591a3,2026-10-01T18:18:20Z,found the screenshots nevermind,https://play.google.com/store/apps/details?id=com.google.android.apps.photos,4,us,play_review,,,out_of_scope,high,,"The user states they have found the screenshots, indicating no request for incomplete-memory retrieval. Therefore the content is out of scope.",,,[],[],[],[]
+play,58092b3b-df3d-4502-b560-2145235a21c7,2026-10-01T00:54:31Z,"Google Photos is incredible for preserving family memories, but it needs true manual face tagging. Currently, you can only name someone if the AI detects a face box first. The best candid shots often feature people looking away, wearing hats, or caught in motion. When the algorithm misses, there's no way to add them to an album. Letting users manually tap and tag someone bridges the gap between AI and human intent. It's a 5-star app that just needs this feature to be perfect.",https://play.google.com/store/apps/details?id=com.google.android.apps.photos,4,us,play_review,,,out_of_scope,high,,"The user is providing a feature request about manual face tagging, not attempting to retrieve a specific photo or video from Google Photos. Therefore the content is not an incomplete-memory retrieval case.",,,[],[],[],[]
+play,8ca2ee69-2b7f-4a4e-905e-e86dcc4d51a4,2026-10-01T20:16:19Z,"Very fantastic application for storing pictures and videos,i have used this app for so far 5 years and i have not found any bad side of it,i therefore do recommend all people from all corners of the world 🌍 to embrace it",https://play.google.com/store/apps/details?id=com.google.android.apps.photos,5,us,play_review,,,out_of_scope,high,,"The user is providing a positive review of Google Photos, not asking for help locating a photo or video. Therefore it is not an incomplete-memory retrieval case.",,,[],[],[],[]
+reddit,1ti0nzi,2026-05-19T21:16:58+00:00,"Tech help please. Samsung S20, Android 13, GooglePhotos not sharing to any apps for texting/emailing/what's app. ALREADY CLEARED APP CACHE.
+Tech help please. Please help me figure it out so my 86 year old mother in law doesn't lose her last marble. 
+
+ Samsung S20, Android 13, GooglePhotos not ""sharing"" to any apps for texting/emailing/what's app. ALREADY CLEARED APP CACHE.  Yes, I know it's possible to download the image then share. Yes, I know she could open the app, search for the photo, and share it. But her brain doesn't work like that. She needs to be able to open ""photos,"" tap the photo, tap ""share"" and route it.   
+  
+Phone is up to date w/software. App also says it's up to date.  
+I know I can back up all her data to Google then try to fix it by factory resetting the phone but she's 86 and can't consent to something she doesn't understand. Basically, she wants a new phone but she can't afford one. There must be a fix. Thanks.  
+Thanks.",https://www.reddit.com/r/googlephotos/comments/1ti0nzi/,0,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is asking for help with a sharing bug in Google Photos, not for locating a specific photo or memory. This falls outside the incomplete-memory retrieval scope.",,,[],[],[],[]
+reddit,1s9aecj,2026-04-01T04:26:13+00:00,"Looking for android app which can process everything on device to replace Google Photos (No self hosting)
+I am looking for android app which can process photos and videos  on device without need of any server (Not even self hosted). I want to be able to search photos with people, scenes(eg. mountain) and text inside them(OCR). Basically a google photos but which process everything on device. I came across these 3 apps on play store. 
+
+[1. Google gallery](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo)  
+This is great and very stable app. The main disadvantage for me here is there is no control over indexing of photos. I cannot control when photos should be processed and which folders should be processed.
+
+[2. Face Recognition Gallery Pro](https://play.google.com/store/apps/details?id=com.hierlsoftware.picsort)
+
+This app solves one of above problem. As soon as you install it it starts processing. You can see live results and percentage of items processed. You can search with text, people and scenes. But here limitation is I cannot choose which folders to process. Accuracy is not that good. UI feels very old.
+
+[3. Face Gallery: AI Photo Sorter](https://play.google.com/store/apps/details?id=com.facesort.facesort.sortphotosoffline&referrer=utm_source%3Dreddit%26utm_medium%3Dsocial%26utm_campaign%3Dreddit_posts%26utm_content%3Dorganic_post)  
+This app solves all my problem. I can choose which folders(albums) to process and starts processing immediatly. You know when you will get your results. You can search with text, people and scenes. Accuracy is in between of above two. But the app is very new in market with very less users. I encountered some bugs in app.
+
+Is there any better app than these 3 ?   
+I am looking for such app from long time but couldn't find. So thought let's take help r/googlephotos . People might now the exact app which I am looking for.",https://www.reddit.com/r/googlephotos/comments/1s9aecj/,0,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is asking for an app recommendation to replace Google Photos, not for locating a specific photo or media item in Google Photos. This falls outside the incomplete-memory retrieval scope.",,,[],[],[],[]
+reddit,1r4u0aa,2026-02-14T19:47:33+00:00,"Empty photo gallery & no albums after reinstall
+I’ll try to be brief and make this make sense. 
+
+I’m using iOS 26.3 and Google Photos 7.63
+
+Photos weren’t automatically downloading from my photo share partner (some were but not all), so I thought it was a bug and deleted / reinstalled the app. 
+
+Now after reinstall, all of my albums are gone and the only photos in the photo tab are ones that are currently on my phone in my main phone gallery. I am missing about 40,000 photos & several albums from the Google cloud that I previously backed up over the years. When I click the videos tab, I see a bunch of old videos, same with the screen shots tab. And when I search for a face, I see old photos of that face. But still nothing in the main photos tab. It’s like the Google Photos app is not syncing previously saved cloud photos/albums. And now on the app I don’t even see an option for partner share.
+
+I logged into the Google Photos website, and everything is there as it should be (albums, locked folder, etc), so it’s not a data loss problem.
+
+I’ve tried all troubleshooting methods I could find. Delete and install, sign out, toggle back up options, toggle wifi/cellular data, reset my phone. 
+
+I should note, it setting up photo library on the top for about 8 hours. ChatGPT says this is too long and says it’s an indexing issue. 
+
+Anyone else experience this or have a solution?",https://www.reddit.com/r/googlephotos/comments/1r4u0aa/,8,googlephotos,reddit_post,,search old photo | photos missing,out_of_scope,high,,"The user reports a large number of missing photos and albums after reinstalling the app, indicating a sync or app issue rather than an attempt to locate a specific photo with incomplete memory. This falls outside the incomplete-memory retrieval scope.",,,[],[],[],[]
+reddit,1qwedcq,2026-02-05T06:58:31+00:00,"Turned on Gemini search in Google Photos — how do I go back to classic search?
+So yesterday, just out of curiosity, I turned on the **Gemini photo search** inside Google Photos. Honestly, I didn’t like it much and I prefer the **classic photo search**.
+
+But now when I try to switch back, I can’t find any option to disable it or revert to the old search.
+
+Does anyone know if there’s a setting or any way to go back to the classic Google Photos search?",https://www.reddit.com/r/googlephotos/comments/1qwedcq/,4,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"User is asking how to disable Gemini search and revert to classic search, which is a feature change question, not an incomplete-memory retrieval issue.",,,[],[],[],[]
+reddit,1qqtkmw,2026-01-30T02:56:46+00:00,"The enshittification of Google Photos due to AI
+The enshittification of pushing AI is really pissing me off. One latest example just this morning:
+
+Back in the old days when Google photos were still logically functional, I had a few of my older photos during my fat days metatagged with the keyword 'Fat'. I will occasionally look back at these photos as sort of a reminder and motivation to myself to not go back to my old ways of sloth & gluttony, and it was as easy as launching google photos and searching using the keyword 'Fat' and presto! I got the photos.
+
+Now though? With Google Gemini forced upon Google photos replacing its search function, i can't even do that anymore. There's no simple way to search for those old fat photos of mine lest i elaborate with a tightly worded prompt using more pompous words. Because the 3-lettered 'fat' is apparently a taboo, a label that shall not be said like Voldemort.
+
+What used to cost 3 alphabetical letters to get my result now requires a fully structured inquiry that I had to skirt around as if the machine can be offended. I know fat-shaming is a toxic behavior, I myself was the subject of it back then. But c'mon man....why is searching for a photo of my previous fat self using the word 'fat' not allowed? Is the AI trying to protect myself from myself? 
+
+Billions of dollars spent, years of LLM training & inference....all to make things worse? This is so bloody stupid.",https://www.reddit.com/r/googlephotos/comments/1qqtkmw/,3,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is expressing frustration that the keyword search for the word ""fat"" no longer works in Google Photos, but they are not attempting to locate a specific photo or providing any missing details such as date, filename, album, or location. This is a general complaint about search functionality, not an incomplete-memory retrieval attempt.",,,[],[],[],[]
+reddit,1qe5k1k,2026-01-16T03:54:35+00:00,"Help system  improvements for Google Photos
+Hello everyone
+
+
+
+I'm old school (I'm 69 years old) and I'm a radio amateur (F6IEH). I learned about computers using Fortran (many software programs used in science still use Fortran executables, such as 4NEC2X: https://www.qsl.net/4nec2/).
+
+I use Google Photos to store and index my large photo collection.
+
+I'd like to know if there are any manuals for Google Photos in French or English, similar to those we used to find for Microsoft Windows in the 1990s and in Linux documentation, etc.
+
+
+
+The advantage of the PDF versions was that the information was structured, comprehensive, and allowed for keyword searches. My problem is that the current answers to my questions don't take into account the machines and operating systems: Apple or PC, Android, Linux, macOS, Windows, etc., and the different versions, and they're in various formats: video or HTML text. I only find manuals in PDF format, produced by teachers for teachers; for example: https://filmora.wondershare.fr/more-tips/how-to-use-google-photos.html.
+
+The type of document I'm looking for is, for example, the iPhone 12 user guide, which is very comprehensive and well-written, containing 1035 pages and an effective search tool. Unfortunately, this guide isn't available for download. I asked Chatgpt for this document, but they couldn't find it; it only exists as a printed book.
+
+The help provided by Google is vague: no screenshots, and it doesn't explain the meaning of the various icons. There's no Help section. Currently, because information is scattered across multiple formats and documents, along with various advertisements, I'm just guessing and wasting time creating my own manuals with annotated screenshots.
+
+
+
+My question is: Do you know of a comprehensive Google Photos manual, similar to the iPhone manuals? Google is a very profitable company that could afford a decent documentation service like Apple's.
+
+
+
+I get the impression that hardware and software manufacturers only release their information online through their official websites, and thankfully some users dedicate themselves to helping others by writing simplified user guides specific to a given operating system and version. For example, you can order this book: iPhone 12 User Guide by Katrine Isaksen. According to Google Docs, it's not as good as the official help document included with iOS.
+
+
+
+So I'm going in circles.
+
+
+
+
+
+I'm old school (I'm 69 years old) and I'm a radio amateur (F6IEH). I learned about computers using Fortran (many software programs used in science still use Fortran executables, such as 4NEC2X: https://www.qsl.net/4nec2/).
+
+I use Google Photos to store and index my large photo collection.
+
+I'd like to know if there are any manuals for Google Photos in French or English, similar to those we used to find for Microsoft Windows in the 1990s and in Linux documentation, etc.
+
+
+
+The advantage of the PDF versions was that the information was structured, comprehensive, and allowed for keyword searches. My problem is that the current answers to my questions don't take into account the machines and operating systems: Apple or PC, Android, Linux, macOS, Windows, etc., and the different versions, and they're in various formats: video or HTML text. I only find manuals in PDF format, produced by teachers for teachers; for example: https://filmora.wondershare.fr/more-tips/how-to-use-google-photos.html.
+
+The type of document I'm looking for is, for example, the iPhone 12 user guide, which is very comprehensive and well-written, containing 1035 pages and an effective search tool. Unfortunately, this guide isn't available for download. I asked Chatgpt for this document, but they couldn't find it; it only exists as a printed book.
+
+The help provided by Google is vague: no screenshots, and it doesn't explain the meaning of the various icons. There's no Help section. Currently, because information is scattered across multiple formats and documents, along with various advertisements, I'm just guessing and wasting time creating my own manuals with annotated screenshots.
+
+
+
+My question is: Do you know of a comprehensive Google Photos manual, similar to the iPhone manuals? Google is a very profitable company that could afford a decent documentation service like Apple's.
+
+
+
+I get the impression that hardware and software manufacturers only release their information online through their official websites, and thankfully some users dedicate themselves to helping others by writing simplified user guides specific to a given operating system and version. For example, you can order this book: iPhone 12 User Guide by Katrine Isaksen. According to Google Docs, it's not as good as the official help document included with iOS.
+
+
+
+So I'm going in circles.
+
+I'm old school (I'm 69 years old) and I'm a radio amateur (F6IEH). I learned about computers using Fortran (many software programs used in science still use Fortran executables, such as 4NEC2X: https://www.qsl.net/4nec2/).
+
+I use Google Photos to store and index my large photo collection.
+
+I'd like to know if there are any manuals for Google Photos in French or English, similar to those we used to find for Microsoft Windows in the 1990s and in Linux documentation, etc.
+
+
+
+The advantage of the PDF versions was that the information was structured, comprehensive, and allowed for keyword searches. My problem is that the current answers to my questions don't take into account the machines and operating systems: Apple or PC, Android, Linux, macOS, Windows, etc., and the different versions, and they're in various formats: video or HTML text. I only find manuals in PDF format, produced by teachers for teachers; for example: https://filmora.wondershare.fr/more-tips/how-to-use-google-photos.html.
+
+The type of document I'm looking for is, for example, the iPhone 12 user guide, which is very comprehensive and well-written, containing 1035 pages and an effective search tool. Unfortunately, this guide isn't available for download. I asked Chatgpt for this document, but they couldn't find it; it only exists as a printed book.
+
+The help provided by Google is vague: no screenshots, and it doesn't explain the meaning of the various icons. There's no Help section. Currently, because information is scattered across multiple formats and documents, along with various advertisements, I'm just guessing and wasting time creating my own manuals with annotated screenshots.
+
+
+
+My question is: Do you know of a comprehensive Google Photos manual, similar to the iPhone manuals? Google is a very profitable company that could afford a decent documentation service like Apple's.
+
+
+
+I get the impression that hardware and software manufacturers only release their information online through their official websites, and thankfully some users dedicate themselves to helping others by writing simplified user guides specific to a given operating system and version. For example, you can order this book: iPhone 12 User Guide by Katrine Isaksen. According to Google Docs, it's not as good as the official help document included with iOS.
+
+
+
+So I'm going in circles.",https://www.reddit.com/r/googlephotos/comments/1qe5k1k/,1,googlephotos,reddit_post,,search old photo | how do I find,out_of_scope,high,not_google_photos,"The user is asking for a comprehensive manual/documentation for Google Photos, not for locating a specific photo or media item. This falls outside the scope of incomplete-memory retrieval.",,,[],[],[],[]
+reddit,1qe5dzz,2026-01-16T03:46:34+00:00,"Proposals for Help for Google Photos app in PC with OS windows 10
+Hello everyone,
+
+I'm old school (I'm 69 years old) and I'm a radio amateur (F6IEH). I learned about computers using Fortran (many software programs used in science still use Fortran executables, such as [4NEC2X: https://www.qsl.net/4nec2](https://www.qsl.net/4nec2)/).
+
+I use Google Photos to store and index my large photo collection.
+
+I'd like to know if there are any manuals for Google Photos in French or English, similar to those we used to find for Microsoft Windows in the 1990s and in Linux documentation, etc.
+
+
+
+The advantage of the PDF versions was that the information was structured, comprehensive, and allowed for keyword searches. My problem is that the current answers to my questions don't take into account the machines and operating systems: Apple or PC, Android, Linux, macOS, Windows, etc., and the different versions, and they're in various formats: video or HTML text. I only find manuals in PDF format, produced by teachers for teachers; for example: [https://filmora.wondershare.fr/more-tips/how-to-use-google-photos.html](https://filmora.wondershare.fr/more-tips/how-to-use-google-photos.html).
+
+The type of document I'm looking for is, for example, the iPhone 12 user guide, which is very comprehensive and well-written, containing 1035 pages and an effective search tool. Unfortunately, this guide isn't available for download. I asked Chatgpt for this document, but they couldn't find it; it only exists as a printed book.
+
+The help provided by Google is vague: no screenshots, and it doesn't explain the meaning of the various icons. There's no Help section. Currently, because information is scattered across multiple formats and documents, along with various advertisements, I'm just guessing and wasting time creating my own manuals with annotated screenshots.
+
+
+
+My question is: Do you know of a comprehensive Google Photos manual, similar to the iPhone manuals? Google is a very profitable company that could afford a decent documentation service like Apple's.
+
+
+
+I get the impression that hardware and software manufacturers only release their information online through their official websites, and thankfully some users dedicate themselves to helping others by writing simplified user guides specific to a given operating system and version. For example, you can order this book: iPhone 12 User Guide by Katrine Isaksen. According to Google Docs, it's not as good as the official help document included with iOS.
+
+
+
+So I'm going in circles.
+
+  
+Philipp",https://www.reddit.com/r/googlephotos/comments/1qe5dzz/,1,googlephotos,reddit_post,,search old photo | how do I find,out_of_scope,high,,"User is requesting a comprehensive manual for Google Photos, not attempting to retrieve a specific photo or media item. This falls outside the incomplete-memory retrieval scope.",,,[],[],[],[]
+reddit,1q26248,2026-01-02T18:15:48+00:00,"“Backed up” but “Partial upload” is breaking shared albums and it’s infuriating
+I need to vent and also sanity-check if I’m crazy or if this is just how Google Photos behaves on iOS.
+
+I’m on an iPhone and have been using Google Photos for years, including shared albums with family. Recently I noticed **a huge number of photos (like… thousands)** show as *Backed up* but also *Partial upload*.
+
+Here’s the part that makes absolutely no sense to me:
+
+* I can see the photos
+* I can open them
+* I can download them
+* Google Photos says they’re backed up
+
+BUT
+
+* people I’ve shared the album with **can’t see them**
+
+So they exist… but only for me?
+
+After way too much digging, it seems like this happens when:
+
+* iOS background uploads get interrupted
+* Live Photos don’t fully upload (photo goes up, video doesn’t)
+* photos came from an iCloud restore or an old phone that’s already gone
+
+Google apparently treats these as non-canonical files, so they’re visible in your library but silently blocked from shared albums.
+
+What’s driving me nuts:
+
+* there’s **no bulk fix**
+* toggling backup doesn’t help
+* support just repeats generic steps
+* the only real workaround seems to be downloading and re-uploading entire albums, which is ridiculous at scale
+
+I actually like Google Photos — the search, the UI, the memories — but this has completely destroyed my trust in it for long-term shared albums on iOS.
+
+So I’m asking:
+
+* Has anyone found a *real* fix that doesn’t involve re-uploading everything?
+* Has Google ever acknowledged this as an actual bug and not user error?
+* Is this just something people quietly live with?",https://www.reddit.com/r/googlephotos/comments/1q26248/,1,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is reporting a bug with partial uploads affecting shared albums, not attempting to locate a specific photo or missing item in Google Photos. This falls outside the incomplete-memory retrieval scope.",,,[],[],[],[]
+reddit,1n00w5j,2025-08-25T19:58:38+00:00,"Google photos: I used to be able to search by person or location. Now the AI is AWFUL.
+It was one or two years ago?
+
+ You could just plug in a search term like a person's name if you had them labeled, but more useful was just plug in a location. Like ""University of Michigan"" 
+
+And it would use the data it had and return you all kinds of photos with that location area tagged by your camera or your phone. 
+
+And I'm talking *camera*, as in way back in the early 2000s some of my photos it would pull the location from my Canon. 
+
+Now you can't search anymore It's all only AI. 
+
+So I tell AI ""show me photos from the University of Michigan"" and it will pull up one photo of the University of Michigan.
+
+And I will try to talk to it like I do chat GPT. I will say something like no I ask for all of my photos from this location. And it has no clue what I'm saying whatsoever. You can't communicate with it back and forth like Chat GPT.
+
+I mean it is complete shit. Just useless as all out. If the old system of search was a seven out of 10 it is literally a 2 out of 10. 
+
+WHY. WHY WOULD YOU DO THAT",https://www.reddit.com/r/googlephotos/comments/1n00w5j/,138,googlephotos,reddit_post,,search old photo,in_scope,high,,"The user is trying to locate photos from a specific location (University of Michigan) that they believe exist in Google Photos but cannot retrieve them using the current AI search. They lack a precise query (e.g., exact date or album) and are seeking all photos from that location, fitting the incomplete-memory retrieval definition.",wrong_results,camera_photo,"[""person"", ""place"", ""rough_time"", ""purpose_context"", ""emotion""]","[""location_name""]","[""search_by_place"", ""keyword_trial_and_error""]","[""search by person or location."", ""Now you can't search anymore It's all only AI."", ""show me photos from the University of Michigan"", ""it will pull up one photo of the University of Michigan."", ""no I ask for all of my photos from this location."", ""You can't communicate with it back and forth like Chat GPT."", ""complete shit."", ""old system of search was a seven out of 10 it is literally a 2 out of 10.""]"
+reddit,1m9wozm,2025-07-26T15:50:24+00:00,"Want to separate photos from my Gmail account so I don’t run into storage issues and email stops working.
+What’s the easiest way to do this? My attempt so far has been create a dedicated photo account, share my photos from my original google account, once those photos are in the new account delete them from the old account to free up space. 
+
+I’ve hit a roadblock, on my new account I can view the shared photos but no actual storage has been used up, so I haven’t actually moved anything. 
+
+There is no option to “add to library” or cloud icon with down arrow, which is what most google search results recommend. Creating an album hasn’t worked. 
+
+It’s so frustrating. 
+
+My last resort is downloading all the photos then uploading them to the new account. But that seems too burdensome.",https://www.reddit.com/r/googlephotos/comments/1m9wozm/,0,googlephotos,reddit_post,,search old photo,adjacent,low,,"The user is asking for instructions on moving photos between Google accounts to free up storage, not for locating a specific photo with incomplete memory. This falls outside the incomplete-memory retrieval scope.",wrong_results,unknown,"[""purpose_context"", ""emotion"", ""visual_appearance""]","[""album""]","[""keyword_trial_and_error""]","[""Want to separate photos from my Gmail account so I don’t run into storage issues and email stops working."", ""I’ve hit a roadblock, on my new account I can view the shared photos but no actual storage has been used up, so I haven’t actually moved anything."", ""There is no option to “add to library” or cloud icon with down arrow, which is what most google search results recommend."", ""My last resort is downloading all the photos then uploading them to the new account.""]"
+reddit,1lwdhxp,2025-07-10T14:01:24+00:00,"How to recover permanently deleted photos?
+So I'm sitting here at 2 AM writing this because I'm still shaking from what happened yesterday. My hands are literally trembling as I type this.
+
+I was reorganizing my external hard drive because it was getting full. You know how it is—random files everywhere, duplicate photos, old downloads. I was going through folders and deleting stuff I didn't need anymore.
+
+Then I saw this folder called **""Family Photos - OLD""** and thought *""oh this must be duplicates from when I reorganized last year.""* Without even checking what was inside, I selected it and hit **Shift+Delete**.
+
+Big mistake. HUGE mistake.
+
+Two hours later, my wife asks me to show her that cute video of our 2-year-old trying to say ""butterfly"" from last month. I go to open the folder and... it's gone. Not just that video. **THREE YEARS** of photos.
+
+Her first steps.  
+Her first birthday.  
+Our anniversary dinner last year.  
+Christmas morning.
+
+**Everything.**
+
+I just stared at the screen for like 10 minutes. My wife comes over and asks what's wrong. I had to tell her I deleted everything. She didn’t yell—but I could see her heart break.
+
+**First Thing I Did (And You Should Too)**
+
+I immediately **unplugged the external drive**. My buddy Jake is in IT and always says:
+
+>
+
+So I did exactly that.
+
+**What To Do Right Now If You Deleted Important Photos**
+
+* 🔌 Unplug the external drive (if files were on external storage)
+* 🛑 Stop saving new files to the affected drive
+* ⚠️ Don’t install recovery software on the same drive
+* ❌ Close background apps to avoid overwriting deleted data
+
+**Before You Panic: Try These Free Recovery Options**
+
+**1. Check File History (Windows only)**
+
+* Type `File History` in the Start Menu
+* Click **""Restore your files with File History""**
+* Browse for a snapshot and click **Restore**
+
+**2. Try Restore Previous Versions**
+
+* Right-click the parent folder
+* Select **""Restore previous versions""**
+* Choose an earlier snapshot and click **Restore**
+
+**3. Use System Restore (only works for system files)**
+
+* Type `Create a restore point`
+* Click **System Restore**
+* Select a point from before deletion and follow the steps
+
+**4. Check OneDrive Recycle Bin**
+
+* Visit onedrive.com
+* Click **Recycle Bin** in the sidebar
+* Right-click any files > **Restore**
+
+None of these worked for me. I never set up File History on my external drive (kicking myself), and most of our photos weren’t synced to OneDrive.
+
+**Tried the Free Microsoft Tool: Windows File Recovery**
+
+At around 11 PM, I downloaded **Windows File Recovery** from the Microsoft Store.
+
+# How to Use It:
+
+    winfr D: E: /regular /n *.jpg *.png *.mp4
+    
+
+>
+
+It recovered maybe 200 photos. Many were corrupted or renamed to things like `FILE0001.jpg`. A few were readable, but most were pixelated messes.
+
+**Free Tools Didn’t Cut It: Tried Recuva**
+
+I ran **Recuva (free)**. It found more files, but again, most were garbage—corrupted or incomplete. It wasn’t enough.
+
+**What Finally Worked: Cisdem Data Recovery**
+
+The next morning I called my brother Mike who's a photographer. He told me about some professional recovery software he uses when clients accidentally format their memory cards. He mentioned a few options but said **Cisdem Data Recovery** worked well for him recently.
+
+>
+
+**What Made Cisdem Different?**
+
+✅ Preview before recovery  
+✅ Found files in strange formats I didn’t even know existed  
+✅ Reconstructed fragmented files  
+✅ Let me pick just the important photos
+
+**Steps I Followed with Cisdem:**
+
+1. Downloaded and installed Cisdem on my main computer
+2. Connected the external drive
+3. Chose the external drive as the target
+4. Clicked **Search for lost file**
+5. Waited for deep scan to finish
+6. Went to **Type > Pictures**, filtered by photo formats
+7. Double-clicked images to preview
+8. Selected important ones to recover
+9. Recovered to a different drive (not the original)
+
+**Important Tips to Keep in Mind**
+
+* 🚫 **Don’t install recovery software on the drive you deleted files from**
+* 💾 **Recover to a different drive**
+* ⏱️ **Start recovery ASAP** for the best chance
+* ⚙️ **SSD drives are harder to recover from** than traditional HDDs
+
+**What Didn't Work**
+
+* ❌ **System Restore** – Doesn’t work for external drives
+* ❌ **File History** – Only works if set up **before** you lose files
+* ❌ **Windows File Recovery** – Too complicated and limited
+* ❌ **Recuva** – Found corrupted files but couldn’t restore anything usable
+
+**Final Result 🎉**
+
+Out of **40GB** of photos and videos, I recovered around **35GB**.  
+Not everything came back perfect, but I got the **most important memories**.
+
+My wife cried happy tears.  
+My daughter looked at baby photos and giggled.  
+And I… backed up everything in **three places** right after.
+
+**Quick Emergency Checklist**
+
+**🚨 Immediate Actions:**
+
+* Stop using the affected drive
+* Don’t restart your computer (if system drive)
+* Don’t install anything new
+* Make a note of what was deleted
+
+**🔎 Built-In Recovery Options:**
+
+* File History
+* Restore Previous Versions
+* OneDrive Recycle Bin
+* System Restore (system drive only)
+
+**🧰 Recovery Process:**
+
+* Try **Windows File Recovery** (free)
+* Try **Recuva** (free)
+* For critical files, try **Cisdem Data Recovery**
+* Always recover to a **different** location
+* Use preview feature before restoring
+
+# I now have File History enabled on everything, photos backed up to three different places, and I double-check every single file before deleting anything. This was the most stressful 24 hours of my life, but at least our memories are safe now.
+
+Total cost: **$49.95**  
+Sleep lost: **One night**  
+Memories recovered: **Priceless**
+
+Has anyone else had success recovering large amounts of personal files? I'm curious what tools worked for other people in similar situations.",https://www.reddit.com/r/googlephotos/comments/1lwdhxp/,0,googlephotos,reddit_post,,search old photo,out_of_scope,high,not_google_photos,"The user is asking about recovering permanently deleted photos from an external hard drive, not from Google Photos. Therefore the request is outside the scope of Google Photos incomplete-memory retrieval.",,,[],[],[],[]
+reddit,1l3pur4,2025-06-05T04:03:46+00:00,"Please Help! I don't understand how Photos is supposed to work with Messenger
+If anyone could walk me through how having images on my phone is supposed to work, I would be eternally grateful. It seems that Android and Google have updated things a bunch of times over the years, and I've never really paid attention, just slightly shifted my process. Fast forward to today, and it's a nightmare that I don't understand.
+
+**What I'm trying to do:** I'm having a sms chat with a friend in Messages and I know I have a meme saved from 10 years ago that I want to send them for lolz. I even have an old area -- called an **Album** \-- entitled ""Memes"".
+
+**The Process:** I'm in the **Messages** app chatting with a friend >  
+Push the ""Attachment"" button or whatever it's called on the right side of the text entry area >  
+A small camera pane comes up along with the most recent photos I've taken with the camera, and, a button called **Folders**, press that >  
+A pane pops up from the bottom with the most recent photos I've taken with the camera, along with two category labels at the top, Photos (active) and Albums. Neither of these access what I want. Push the **three dots on the right side of this pane**, and a **Browse...** button comes up, push that. >  
+This takes me to a screen labelled ""Search this phone"" with many options, as well as my recent photos taken with the camera again. Rather than push the three dots on the right side of this screen, I push the **three lines on the left side of this screen** to bring up a slide out menu, the last option is **Photos**, push that >  
+This brings up a screen called ""Select a Photo"", scroll through a single column listing of categories to the Album labeled **Memes**, push this >  
+Now I get a mosaic of all the photos in this album. Scroll to the **meme I want**, press it and it adds it to my message text.
+
+Now I can hit send and it goes to my friend in the conversation.
+
+There ***MUST*** be an easier way. What am I missing Reddit??",https://www.reddit.com/r/googlephotos/comments/1l3pur4/,0,googlephotos,reddit_post,,search old photo,adjacent,low,,"The user is describing a difficulty navigating the UI to locate a photo in a known album, not an incomplete-memory retrieval scenario.",other,camera_photo,"[""person"", ""rough_time"", ""purpose_context"", ""emotion"", ""photo_type""]","[""album""]","[""keyword_trial_and_error"", ""scroll_timeline""]","[""I even have an old area -- called an **Album** \\-- entitled \""Memes\""."", ""There ***MUST*** be an easier way."", ""Now I can hit send and it goes to my friend in the conversation."", ""Push the \""Attachment\"" button or whatever it's called on the right side of the text entry area"", ""A small camera pane comes up along with the most recent photos I've taken with the camera"", ""A pane pops up from the bottom with the most recent photos I've taken with the camera, along with two category labels at the top, Photos (active) and Albums."", ""Push the **three dots on the right side of this pane**, and a **Browse...** button comes up, push that."", ""This takes me to a screen labelled \""Search this phone\"" with many options, as well as my recent photos taken with the camera again."", ""Now I get a mosaic of all the photos in this album."", ""Scroll to the **meme I want**, press it and it adds it to my message text.""]"
+reddit,1kupo9g,2025-05-25T00:14:43+00:00,"The use of passkeys and sharing a photo account or family death...
+This is a two-fold question.  My husband and I share our Google Photo accounts with each other.  We have the paid family storage, but it's not at all unusual for one of us to search the other person's photos for a specific photo.  With full consent, obviously.  And we've also had a family member recently pass away whose photos would have all been lost had family not had the password.  So how would either of these things work with the new passkeys...
+
+1) Is there some way for practical use that my husband and I could still access each others photos.  Would this involve using two browsers on our computers and having the other person's Google account signed into permanently in the secondary browser.
+
+2) For anyone, what happens when someone passes away.  Obviously, under the old system you can leave your password with a trusted family member, as our family member did.  But if they'd been using a facial recognition passkey or figerprint, would their account and all their family photos just die with them? Or is there another way?",https://www.reddit.com/r/googlephotos/comments/1kupo9g/,2,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is asking about account sharing and passkey functionality, not about locating a specific photo or media item in Google Photos. Therefore it does not fit the incomplete-memory retrieval definition.",,,[],[],[],[]
+reddit,1jtt7k0,2025-04-07T18:59:19+00:00,"How to find duplicates of the same photo in different resolutions
+In my efforts to leave FB forever, I imported all my FB photos to Google photos because I knew there were some on there that I didn’t have backups for. Then I found a stash of old flash drives (hooray!!) and found a lot of them, which I then uploaded to Google photos (I should have deleted the smaller ones first but I didn’t think of it). Now I have duplicates of the same photo, some in regular resolution and some in lower resolution from FB. I’m not a tech person, so hopefully that’s the right lingo. So I have versions of the same photo, and I want to delete the lower resolution ones. I’ve tried putting “duplicate” in the search function in Google photos, to no avail. And I have like a billion photos on there, so trying to do it visually isn’t an option. Grouping by date isn’t an option either since the downloaded photos have the date I downloaded them, not the original date of the photo. Is there any way to find repeat copies of the same photo that are different sizes so I can delete the shitty ones? TIA!",https://www.reddit.com/r/googlephotos/comments/1jtt7k0/,2,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is asking for a method to find and delete duplicate photos of different resolutions, which is a feature request rather than an incomplete-memory retrieval scenario.",,,[],[],[],[]
+reddit,1gh2gny,2024-11-01T10:44:48+00:00,"Photos deleted from main phone but still on google photos
+My old phone broke months ago and I bought an OPPO A38 which has google photos, which may be the worst photo experience I've had. I don't remember setting it up, but all my photos I took got uploaded to my Google Photos account, next thing I know, all space is filled up, and I'm being told I can't use fucking gmail anymore. So I go to try and delete some photos off of google photos, and I find they get deleted off my main photo roll too. I restore them. I search up the problem, and disable google photos as i can't delete it, but then i find that half the things in my camera roll were missing, tonnes of photos from my holiday and a concert i went to recently. but the thing is, those photos are still in google photos. how the fuck do i get them back into my normal camera roll but keep them out of google photos. is it possible? or is google photos just too fucking stupid to handle that request.",https://www.reddit.com/r/googlephotos/comments/1gh2gny/,1,googlephotos,reddit_post,,search old photo | can't remember,out_of_scope,high,,"The user is requesting instructions to restore photos from Google Photos to the phone, not searching for a specific photo with incomplete memory. This falls outside the incomplete-memory retrieval scope.",,,[],[],[],[]
+reddit,1fa4fg1,2024-09-06T02:29:47+00:00,"What happened to the search feature on the app?
+The search option used to deliver amazing results. You could search ""banana"" and any photo, screenshot, etc with a banana in it would show up, along with any image with the text ""banana"". It also worked for any captions or descriptive text manually added to a photo. This was also extremely helpful for photos of documents or bills. All you had to do was search something like ""Progressive"" and there's the photo I took of my insuance bill.
+
+Over the past few weeks, this feature is useless. Search results are giving me photos that have nothing to do with the search term. Now it's divided in ""most recent"" and ""best match"" both of which are garbage. Anyone notice this change? Or know how to get back to the old search results?",https://www.reddit.com/r/googlephotos/comments/1fa4fg1/,5,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is describing a problem with the search feature in the Google Photos app, not attempting to retrieve a specific photo or video with incomplete memory. This falls outside the scope of incomplete-memory retrieval.",,,[],[],[],[]
+reddit,1f8aw23,2024-09-03T20:48:20+00:00,"Selective sync - and deleting photos from camera roll - lots of questions!
+I started using Google photos about 5 or 6 years ago just for creating albums of photos from trips. So I would (for example) take 400 photos and videos during a trip, then at the end of the trip I'd create an album, upload them into the album, then delete all but maybe 3 or 4 from my phone. So at this point I have dozens of albums and tens of thousands of photos in Google photos but maybe only 200 of them on my phone
+
+Google photos backup is off but I have a separate app back up the photos on my phone.  I have multiple folders that have old photos, as well as my WhatsApp Images folder which has around 20k photos in it.
+
+I would like to take advantage of being able to use Google photos to search for people in photos, and also with the backup off I'm not able to upload photos to the albums I create when roaming - it requires me to be on wifi
+
+My concern though - is I have everything organized. The photos locally are in specific albums (based on periods of my life). And then the Google photo albums are by trips taken.
+
+I know when I delete a photo from my phone, if it's been uploaded to Google photos that works fine, because that's what I want - when I put them in albums. And when I delete from Google photos, it also deletes from my phone
+
+I'm worried that if I turn Google photos backup on, I'm going to be in a situation where Google photos will back up everything in my camera roll. That includes the typical ""group photo"" where we might have 20 of the same photo, taken back to back, where usually I would later in the day go through those 20 and delete 18 or 19 of them and only keep 1 or 2.
+
+If i do that, google photos will have already backed up all of them, so I'd have to go into Google photos to delete photos on my camera roll, not the local gallery app
+
+Any suggestions here in what to do? Hopefully my dilemma makes sense. I want to use Google photos to the full potential, but I'm OCD in how I manage my photos and don't want clutter or ""out of sync"" photos if that makes sense",https://www.reddit.com/r/googlephotos/comments/1f8aw23/,1,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is asking for general guidance on how to manage selective sync and deletion in Google Photos, not for locating a specific photo or video. This falls outside the incomplete-memory retrieval scope.",,,[],[],[],[]
+reddit,1e420e1,2024-07-15T18:20:59+00:00,"I found an alternative to Google Takeout for downloading photos
+My spouse asked me to clear out her old photos off Google photos to clear up space as she is approaching the 100 GB limit. I was frustrated but not surprised to find that Google makes it much harder to prevent you from doing this. Google Takeout downloads your files and adds a bunch of junk files and folders to the mix, which is completely unnecessary and obviously on purpose.
+
+Here are two solutions: the first if you want to pick and choose which years to download, and the second if you want to bulk download everything. Note that the 2nd option uses Google Takeout and then cleans up the mess.
+
+Solution #1) Download by Year
+
+1. In Google Photos, do a search for the year you want to download. (For example, ""2023"" or ""2024"".) The files from that year will populate.
+2. Select all files. Do this by selecting the first photo by clicking the checkmark in the upper left corner of the photo, and then scrolling to the last photo and press the SHIFT key while selecting the last photo. This will select all the photos from the search.
+3. Next, add all of these photos to an album.
+4. Once they are in an album, simply choose the ""download all"" option from the right top corner and it will add these photos to a zip file to be downloaded.
+5. Once they are downloaded to your computer, you can go back and delete all the photos from the album. (Don't just delete the album itself without deleting the photos: make sure to delete all the photos as well.
+
+Solution #2: Download everything.
+
+1. Use the Google Takeout Service to download all our your files to your computer.
+2. Unzip and combine all of your folders into one main folder.
+3. Use the ""Google Photos Takeout Helper"" program to (a) get rid of all the junk, (b) remove all of the duplicates and (c) put all files in one big folder (or in folders separated by month.
+
+Note: I have not tested this second option, but I want to put it here because it looks legit and could save A LOT of time.
+
+Good luck everyone!",https://www.reddit.com/r/googlephotos/comments/1e420e1/,9,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is describing methods to download photos from Google Photos, not requesting help to locate a specific photo or video. Therefore the post does not fit the incomplete-memory retrieval scenario.",,,[],[],[],[]
+reddit,1dijqen,2024-06-18T06:11:42+00:00,"How to download my photos to PC in a usable format?
+Hi all.
+
+I started using google photos a few years ago because when I copied photos directly from my old iphone 7+ to my PC (Windows), many photos were being corrupted.
+
+I try to keep my photos archived on PC. But I wasn't able to copy the stuff from phone. I also wanted to free up my space on my phone. So I spent ages putting photos from my phone into google photos, downloading them (one at a time, probably!) and then archiving everything. Then I started using google photos for albums, and started fixing metadata, and spending a lot of time and energy getting usable albums that I can access from pc (web browser) or phone (the app).
+
+But since then, it has been a one way street. Everything into google photos, nothing back to my PC.
+
+I bought a new phone last month, an iphone 15 Pro. I just went on a trip, pretty much filled up my phone, and then uploaded all of that into google photos.
+
+Now I want to free up space on my phone for my next trip, but I don't want to delete stuff off my phone if it will delete it from Google photos.
+
+So I figured it was time to archive back to PC. I found a reasonable date to start transferring from (Sep5 2022) and looked for a way to mass download.
+
+I learned I can select up to 500 photos, click the three dots, select 'download' and then check my downloads folder for a zip file. Then I extract those files. I did a test. The files all come out as .HEIC and my PC cannot open them.
+
+I did a search, and google tells me it is a setting from ios 11+, and change the setting on my phone. But that doesn't fix those photos. I tested a single photo from the same day and it also downloads as .HEIC.
+
+How do I download those photos as JPG or another usable file format?",https://www.reddit.com/r/googlephotos/comments/1dijqen/,2,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is asking how to download photos from Google Photos in a usable format (JPG) rather than searching for a missing photo. This is a feature/usage question, not an incomplete-memory retrieval scenario.",,,[],[],[],[]
+reddit,1c8fb6z,2024-04-20T02:48:02+00:00,"How do I restore an old backup?
+I broke my phone screen a while ago, so until I got a new one, I have been using my mom's old phone. To access my photos, I logged in to my google photos account, expecting it to load my photos. However, when I checked google photos, I found only my most recent photos (from the past few days), and all of my mom's photos. I don't know why it did this, but now that a have a new phone, I logged in to my account, and saw the same problem. Only my recent photos were in there, along with my mom's photos. I want to restore an old backup of my google photos to get the rest of my photos back, but I can't find it in settings, and every search tells me how to restore only one photo instead of the whole backup. Does anyone have a solution for this?",https://www.reddit.com/r/googlephotos/comments/1c8fb6z/,2,googlephotos,reddit_post,,search old photo,in_scope,medium,,"The user believes an old Google Photos backup exists but cannot locate it in settings or via precise queries. They are attempting to retrieve it without a specific date, filename, or album, fitting the incomplete-memory retrieval definition.",not_indexed_not_found,unknown,"[""person"", ""rough_time"", ""purpose_context"", ""emotion""]",[],"[""keyword_trial_and_error""]","[""only my most recent photos (from the past few days), and all of my mom's photos"", ""Only my recent photos were in there, along with my mom's photos"", ""I want to restore an old backup of my google photos to get the rest of my photos back"", ""every search tells me how to restore only one photo instead of the whole backup""]"
+reddit,1aungq9,2024-02-19T13:37:00+00:00,"Setting it up, having a couple tiny issues.
+Sorry for the detailed post, but I'd rather give it and not need it, than need it and leave it out.
+
+I have thousands of photos in several locations.
+
+I tried to combine them into a series of folders on PC. Great, except for one thing: New photos from iphone were getting corrupt when trying to sync.
+
+Solution: Google photos.
+
+Uploaded tons of photos from PC. Turned on backup option on iphone 7 plus. Now I have most of my photos in (mostly) date time order. I think I see all photos in both platforms now, which wasn't happening for a while. 
+
+Question 1: Why don't albums I make in one location get transferred to the other location (phone/pc)?
+
+A lot of my photos are quite old and didn't come with metadata. Date/time stamps are wrong, slowly fixing it. No location data. Adding it as best I can. It has been amazingly accurate for places in Germany.
+
+But here's the issue. I have a folder worth of photos that were all taken in the same room in the same house (in Sydney). On one photo I can add the \*exact\* address. On a different photo, I'm lucky if I can get the same street at a random intersection, and the next photo, I can't even get it to identify the street.
+
+Question 2: Any idea why this is happening? Any way around it?
+
+I have a locked folder. It was easy to use on PC. Just highlight everything, click move to locked folder.
+
+On iphone, it was difficult to even set up a locked folder, and when I did, nothing was in there. And to move photos, it was highlight one photo, move to locked folder. (Delete from source + icloud?). Select next photo. Move to locked folder. (Delete from source + icloud?). And so on. Painful.
+
+Question 3: Any idea if that can be done easily? 
+
+Question 4: Why don't my locked folders match, sync? They have different photos in them I think. (I haven't done a side by side comparison yet. I will, at some stage.)
+
+If I search for a random subject, it actually quite intelligently finds topical photos. Eg, search for ""food"", it brings up tons of photos of food. It also includes a wallaby eating grass and an ashtray full of cigarette butts at a party. It's not perfect. Pretty cool though.
+
+But it doesn't bring up ALL my photos of food.
+
+I have tons of photos of animals, and if I search for 'bat' it shows exactly two photos of bats flying. But I have at least four or five photos of bats in trees, and two or three more of them flying. I get it that google AI isn't perfect. The same thing happens if I search for elephant, or lion, or turtle. It just completely ignores the turtle from the Amsterdam Zoo for some reason.  
+(As a side note, I was trying to bring up the Kamelot concert, it didn't find that. But it brought up every photo of me wearing a Kamelot T-shirt, I thought that was awesome!)
+
+Question 5: Is there a way to tag a photo with searchable keywords?
+
+Last one. I love the facial recognition. It took me a while to work out how to add people that I have no social media details for. Once I worked that out, I went through each and every photo to add people I know (work in progress!) But sometimes it tags faces of strangers, and completely ignores the one person in the photo I know. I can't tag that face and include it as that person. Even if it is a person I have 200 other photos of.
+
+Question 6: Any way to do that?  
+Also, amusing side note. I used to have two ginger kittens, Thundercat! and Jinja Ninja. The facial recognition gets Thundercat! 100% of the time, but Jinja Ninja about 1% of the time ;)
+
+Thanks in advance.",https://www.reddit.com/r/googlephotos/comments/1aungq9/,3,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is asking about various Google Photos features and troubleshooting issues (album sync, location accuracy, locked folders, search tags, face recognition). They are not attempting to retrieve a specific photo they believe exists but cannot locate. Therefore the request is not an incomplete-memory retrieval case.",,,[],[],[],[]
+reddit,1ahvz0r,2024-02-03T13:20:57+00:00,"User who used to use ""folders"" seeks opinion on image organization in Google Photos
+Hello everyone! My name is Rodrigo and I'm seeking opinions on image organization. How do you organize your photos on image platforms like Google Photos?
+
+I come from the old PC school and have my entire photo archive neatly organized in folders, named as ""2001 - Family and friends"", ""2001 - Trip to the beach"", ""2001 - Tech and Gadgets"", ""2002 - Family and friends "", etc etc. You get the idea.
+
+I can recreate the folders in ""Albums"" and maintain that order. The problem is that the new photos I take with the smartphone will be more difficult to organize, since apps like Google Photos show a chronological feed of the photos, all mixed together and do not allow me to easily see which ones are already organized in an Album and which not.
+
+OneDrive allows you to have separate folder structures as I have used for years, but the search for images by content leaves a lot to be desired, and the platform does not usually understand that when searching I do not want to see images that come from other folders in the storage. OneDrive is a no no. I really like Google Photos. It understands searches by image content, has good editing tools and nice features like memory videos and fun animations.
+
+When I used to use iCloud Photos I had an Album created for each folder, just like I like to have, and I could have a SmartFolder in the Mac Photos app that listed ""all photos that aren't already part of an album,"" but that smart album also did not sync with the iPhone.
+
+In any case, it would seem that maintaining the order of images in this way is an increasingly time-consuming process. Maybe I should abandon my interest in organizing photos by category and just group them by entire years? How do you organize your photos? I would like to hear opinions.",https://www.reddit.com/r/googlephotos/comments/1ahvz0r/,4,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is asking for general opinions on how to organize photos in Google Photos, not attempting to retrieve a specific missing photo or file. This falls outside the incomplete-memory retrieval scope.",,,[],[],[],[]
+reddit,188kee8,2023-12-01T19:37:00+00:00,"Any way to search for all photos ""Shared by a Google user""?
+I have two accounts, one older and one newer. I had partner sharing setup from old -> new. In my new account, I had ""auto saved"" turned on.
+
+I've since disconnected the old account, but all the photos remain in the new account. In the details of these photos, it says ""Shared by a Google user"" and ""Saved to your photos"".
+
+I'd like to delete all these photos from my new account, but I can't figure out a way to isolate only the ""shared"" photos for deletion - they're all mixed in with the photos in the new account. I've tried using the search terms ""Shared by a Google user"" and ""Saved to your photos"" to no avail.
+
+Any ideas on how I can do this, without going through each photo one by one?",https://www.reddit.com/r/googlephotos/comments/188kee8/,2,googlephotos,reddit_post,,search old photo,in_scope,high,,"The user is trying to locate a specific subset of photos in Google Photos that were shared by another user but cannot provide a precise query such as a date, album, or filename. They are seeking a method to isolate and delete these photos, which fits the definition of incomplete-memory retrieval.",wrong_results,camera_photo,"[""person"", ""purpose_context"", ""photo_type""]",[],"[""keyword_trial_and_error""]","[""Shared by a Google user"", ""Saved to your photos"", ""auto saved"", ""partner sharing"", ""old account"", ""new account""]"
+reddit,186jbiu,2023-11-29T06:50:53+00:00,"Just migrated from an S10+ to an S23+, and created 1,000+ duplicates in GP
+I used the Samsung Smart Switch tool to copy everything from old to new phone, which copied all the existing JPGs from old to new (3 years worth, 10,000 ish) (yesterday).  I activated Google Photos on new phone. Today in GP I noticed duplicates scattered throughout the past 4 year's worth of photos, but not all.  I subscribe to Google 1 and choose 'original quality' for my image backup with GP. 
+
+I deduced that the duplicates occurred with ANY photo that I had edited in GP - rotate, crop, minor edits, etc (so any image I didn't edit didn't get duplicated). The two images showed side by side in the photos view, and they were identical (on the 'info' panel) other than storage size, and the new dupe's were not in any albums and didn't have any captions. The original would be large (typically 4GB) while the dupe was much smaller (1GB or so). 
+
+I also noticed that, if you used the 'edit' option on the image, 'revert' was shown on the original - confirming that this was indeed an edited image (that's how I figured all the dupe'd images had been edited). 
+
+Somewhere on the web I found this 'view' in Google Photos - [https://photos.google.com/search/\_tra\_](https://photos.google.com/search/_tra_) which I used on my laptop. Apparently you also get there in the web app via Explore > Recently added - who knew?! 
+
+It basically shows all your images sorted by upload time, and this was a God-send - because all my dupes got created the day I did the migration.  So I was able to carefully select all the images in this view that were uploaded yesterday, and that got rid of all the dupes. 
+
+Unfortunately, when I next opened Photos on my new phone, it wanted to sync those deletes to the phone, and I accepted the sync, and it deleted all the jpg's from the new phone. But - not a big deal as the originals were on the old phone, and were backed up in numerous folders on my laptops (and exist in GP). If I had wanted to keep all the JPGs on the phone, I presume I could have declined the sync, and it would have ignored them.",https://www.reddit.com/r/googlephotos/comments/186jbiu/,1,googlephotos,reddit_post,,search old photo,out_of_scope,high,sync_or_deletion_bug,"The user is describing a duplicate photo issue caused by migration and sync, not a request to retrieve a missing photo based on incomplete memory.",,,[],[],[],[]
+reddit,184nqqu,2023-11-26T23:04:04+00:00,"How I restored my backed up photos and videos on google photos with correct dates after factory reset through takeout
+Notes before reading the whole thread: After complete restore with correct dates, some apps like Facebook and Instagram (I don't know if there is others or not) won't recognize the correct order and I don't know the reason. Also forgive my bad English.
+
+Context: I have Xiaomi 12T Pro and I used to keep my photos and videos backed up to google photos app in case something happens. I didn't create albums or anything through the app, I only checked if my photos and videos are backed up or not through ""Photos"" tab. Two weeks ago, I updated a system app that caused bootloop. I couldn't boot the phone till I made a factory reset through recovery menu and of course all my data are gone. I installed the app to recover my photos and I was struck that it can only download the latest 200 photos and videos and they will be downloaded in folder called ""Restored"" in DCIM. I thought that when I chose the folders to back up on google photos app, they will be backed up as my local storage folders. Anyway, I kept searching for days on how to restore all my GP data with their correct dates and found many methods here on reddit. I tried only one method through Takeout and I recovered my data successfully. Even photos that are not from a Camera source (like whatsapp and photos from internet) are correctly ordered. The most important dates are date taken and date modified; these are used to order data in gallery. There is other date but not important as the them which is date created. I am not a tech who uses a PC with Win 10 and knows nothing about coding and this stuff.
+
+There are two methods and both of them depend on Takeout. Before starting any of them, open google photos through pc and check all your backed up photos and videos and check if there are some old stuff that you don't need and delete them. Also delete all created albums through google photos to avoid duplications. Now create an export for google photos through ([https://takeout.google.com/](https://takeout.google.com/)) and ONLY check the albums with years and choose the largest zip (50 GB) to avoid many zip extractions. In my case, my data was 30 GB so my whole data was in one zip file. After downloading the zip, copy it somewhere else as a backup in case the process failed.
+
+FIRST METHOD: THE EASY (PAID) method by using Metadata Fixer tool. Use this paid tool ([https://metadatafixer.com/](https://metadatafixer.com/)). This tool merges JSON files (that store metadata of photos and videos) with your your takeout export and the tool supports many file types. Kindly note that this tool fixes only 100 files for free as a trial. If your takeout data in not much, maybe you can use the tool to fix the first 100 files for you and then delete the already fixed 100 files from the takeout zip itself and repeat the process. (IDK if it can be used many times or not as I only used it once). If the tool successfully fixed all of your files, an output folder with all your fixed data will be created. I really don't know what the final folder will look like as I didn't use this method but it should look a folder with all photos and videos inside (this will take much time to load and may crash your PC) or a parent folder with many folders named after years or a parent folder with many folders named after years and many folders named after months. Anyway, check this folder(s) and you should notice the three dates mentioned above are almost identical. You can now connect your phone via USB and copy your data back or you use any other method of copying as you like.
+
+SECOND METHOD: THE UNEASY (FREE) method: We will use many tools.
+
+1- Download this free tool ([https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)). It's a cmd tool that also Merges data with JSON files. Open the tool and follow the instructions. It's better to use the 2nd choice when prompted (I don't really remember it's name but it says data can be portable and copied anywhere), also select the choice of making folders by months (as folders with years only will take much time to load file explorer in windows). After the tool finishes its work, there will be output folder that has many folders named after years and many folders named after months.
+
+2- Download EXIF Date Changer Pro (Google it and I will not post the link as it is a paid tool) or you can use any other tool that can batch edit EXIF of data. After installing, open the tool and just drag and drop your output folder and browse for destination folder then apply this settings:
+
+In ""Time Difference"" tab: set date/time from Modified date
+
+  
+In ""Options"" tab: check the following:  
+Preserve original modification date  
+Use file created date if no date taken  
+Set file created date to date taken
+
+If the tool successfully processed all your files, the output folder shall match the output folder from the previous step and you should notice the three dates mentioned above are almost identical, so skip the next step. In my case, there were some errors with photos that are not jpg and videos that are not mp4. I was pretty lucky as these errors existed in only 60 photos and videos. The tool logs every error with every file so I could know where the error comes from. Check with every error line the source of the file and extract this file it along with its own JSON file from the untouched Takeout zip that you firstly downloaded in a new folder. After extracting the files with errors, select all them with CTRL+A and create a zip file for them (don't create a zip for the whole folder, just create it for the files).
+
+3- Use the Metadata Fixer tool from the FIRST METHOD: we should have now few number of unfixed files. I used the demo version of the tool and it fixed my 60 files. Anyway, just open the tool and drag and drop your created zip (that has the files needed to be fixed along with their JSON files) and it will process your files. The output folder should have your fixed files now. Now move (DON'T COPY) each file to its correct month and year folder in the output folder from STEP 2. You can now connect your phone via USB and copy your data back or you use any other method of copying as you like.
+
+The following steps are OPTIONAL, but I did it in order to well-organize my photos and videos. You can follow these steps whether you used the free or paid method or just use another method to organize your stuff.
+
+Well, as I mentioned above, I have now a parent folder with many subdirectories named after years and months, and inside them all my photos and videos are fixed. I can now open each folder and copy its content to my phone but I may face a problem. All my photos and videos, although they will be correctly ordered, they will be like google photos interface (screenshots, videos, memes and camera photos will be in a same place). I am a person who likes to keep his things organized and this applies to my photos and videos. I like to keep the photos and videos of real persons and places in the Camera folder (whether the source of these photos and videos from my phone camera or sent by someone on any other app).
+
+1- I created a folder in another directory in my PC and created it some folders and named them according to their content (Screenshots, Screenrecords, SnapTube Video, Facebook, Picsart ... etc.) I opened every folder of them in a new window and I have gone through every month in the output folder and skimmed through them to look for non-camera photos and moved (DIDN'T COPY) to its correct place. I used the search function and it really helped me to finish quickly: (navigate to the parent output folder and use the search in the upper right area of screen. There are some fixed prefixes of images and videos such as: (FB\_IMG for facebook), (PicsArt for picsart photos and videos) and so on, while prefixes of screenshots and screenrecords may vary depending on the phone type, just try to know the repeated prefix of each type of app to find it easily. After moving all your non-camera stuff to their correct folder on your PC, you can now copy the whole folders back to your phone (just be careful of their correct path on the phone as there folders inside DCIM folder, or inside Pictures folder, or inside Movies folder or maybe the app can make its own folder as telegram and snaptube).
+
+2- This is the final step and it can be done manually but it will be kinda tiresome, or maybe there is a code or a script that can facilitate the process I don't know, or through the tool that I have used called Total Commander ([https://www.ghisler.com/download.htm](https://www.ghisler.com/download.htm)). I guess maybe some people know it. It's a tool that can do many processes through file explorer. I only needed the tool to show all files in subdirectories in one view, so instead of navigating to 05 folder inside 2019 folder to copy camera stuff to Camera folder in DCIM to my phone then wait till it finishes and navigate to the next month folder and repeat the process, I could just use a function in Total Commander that shows all files in subdirectories in a parent folder. Now I can see all my camera stuff in one folder and I can copy them to Camera folder in DCIM in my phone in one step (and that's why I only kept the camera stuff folders together in a parent folder and the other non camera stuff like screenshots and facebook stuff together in another parent folder). The Total Commander interface is easy: just navigate to the parent folder of your camera stuff in the left screen and press CTRL+B and you will see all files inside months and years together then select all photos and videos with CTRL+A then navigate to Camera folder in DCIM in right screen and copy your stuff with F5 and let it takes its time.
+
+Now we are done. You can open your gallery app and check the order of your data. You can also open a chat in whatsapp or messenger and try to send anything from your gallery, you should be able to see your stuff in correct order (unlike trying to add a post or a story from facebook or instagram as they will show the latest thing you added to your phone local storage regardless of dates). I know the whole process is frustrating, but it's worth it and I guess it's really better to see your recent photo with your kids as the first thing that comes up when you open your gallery than to see your old cringy photos with haircut like Justin Beiber in 2010s beside the memes from The Office :)
+
+At the end, it is my first HELPING thread or post or whatever it is called on reddit or anywhere else. I just had a terrible experience with google photos and I do think many had their owns. I apologize for my bad English and for the wordy and detailed sentences, I just tried to express my whole experience and how I got my data back. I hope this thread help whoever faces the same problem and I also hope that it will be approved by admins and not removed as I took much time writing it with details. Btw, I don't have the google photos app on my android phone right now, if I downloaded the app again and signed in with my mail and turned on the backup and sync, will my new data get backed up? what about the old backed up data? will they be kept or removed? THANKS ALL :)",https://www.reddit.com/r/googlephotos/comments/184nqqu/,5,googlephotos,reddit_post,,search old photo | can't remember,out_of_scope,high,,"The user is providing a detailed tutorial on how to restore Google Photos data after a factory reset, not asking for help to locate a specific photo or missing information. Therefore, it does not fit the incomplete-memory retrieval scenario.",,,[],[],[],[]
+reddit,16mq8y1,2023-09-19T12:55:13+00:00,"Uploaded SD home videos to a new account over a week ago and no facial recognition, etc
+I'm experimenting with using Google Photos to store and organize digitized home videos from the '80s, '90s and '00s. These videos are all digitized in standard definition but are decent quality. You can clearly see faces and other objects in the videos, but Google Photos has still not picked up on anything aside. 
+
+It's important to note that I created a new Google account for this purpose, so the only files in this photo library are these old video clips. Maybe it doesn't have enough data to recognize faces?
+
+I uploaded some of the clips to my own personal account with photos and videos going from 2010 to now, and it almost immediately recognized my dad and others. But I have lots of photos and videos of my dad on my account, so maybe it just has more training dad associated with my personal account?
+
+I realize that the obvious solution is to upload the clips to my own account, but I really want an easy way to share the library with family without sharing my entire account, and without making an album with all the videos in it, since it wouldn't be displayed with the dates the same way as the full library.
+
+Any ideas? Maybe Google Photos isn't the best way to create an easily sharable video library that I can search by face, scene, etc? Or do I need to feed it a bunch of photos of each family member so it starts to learn who's who?",https://www.reddit.com/r/googlephotos/comments/16mq8y1/,3,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is asking about facial recognition performance and how to share a library, not about locating a specific photo or video. This is not an incomplete-memory retrieval scenario.",,,[],[],[],[]
+reddit,15hwqnn,2023-08-04T10:49:56+00:00,"Question on iOS syncing and website deletion
+Hi folks,
+
+Happy to be directed to an old answer, as usual Reddit search is ass.
+
+If I take a photo on my iPhone, it syncs into my Google Photos and appears on the website on my laptop. 
+
+What happens if I use my laptop to declutter my Google Photos, but said photos still remain on my iPhone? Will the photos simply re-sync back into my general Google Photos, and reappear on the website?
+
+I'm trying to figure out the easiest way to clean through my photos.",https://www.reddit.com/r/googlephotos/comments/15hwqnn/,1,googlephotos,reddit_post,,search old photo,out_of_scope,high,sync_or_deletion_bug,"The user is asking about how deletions on the website affect photos on the iPhone and whether they will re-sync. This is a question about sync/deletion behavior, which is explicitly marked as not in scope.",,,[],[],[],[]
+reddit,15b0tbn,2023-07-27T12:38:27+00:00,"Google Photos back up lost my local albums
+I have an old Android phone and I was running low in space.
+
+I was suggested to expand by cloud storage and upload my photos and videos on Google Photos. 
+I did, it took forever since they were like +5000 files.
+
+I am quite sure that when I have started the back up process, I confirmed that I wanted to keep the same albums/libraries.
+
+Now, the back up it's completed, the uploaded photos have been deleted from my local storage, but all the albums are lost! 
+There is no more correspondence between what I had on my phone and Google Photos.
+Even worse, there are some albums, but they have only 1-2 pics in it, so I don't understand why the back up did not happen completely! 
+
+For example, the local folder ""Screenshot"", which was automatically created by my phone, had all the screenshot in it. Now just few of them, and there is a weird time skip with some recent ones and some very old ones, nothing in between. 
+
+In addition to that, for some reason I cannot add any photo to this existing library, so even if I would search for any other screenshot, they would been moved to another folder which it wouldn't get directly updated.
+
+Is there a way to fix this and re assign the original order/group?",https://www.reddit.com/r/googlephotos/comments/15b0tbn/,1,googlephotos,reddit_post,,search old photo,out_of_scope,high,sync_or_deletion_bug,"The user reports that after backing up to Google Photos, local albums were deleted and many photos are missing, indicating a sync/deletion bug rather than an incomplete-memory retrieval issue.",,,[],[],[],[]
+reddit,142x40j,2023-06-06T23:39:24+00:00,"Geolocating famous landmarks of old photos automatically
+I have hundreds of old photos of of famous landmarks that I scanned in. I want them location tagged so they show up in heat map and also the photo location.  The photos have no date, no GPS info.  However, when I use google lens, it correctly identifies the location almost all the time.
+
+I know that Google Photos is supposed to locate photos based on landmark, and it does in terms of photo search (if I search for the landmark name, it correctly identifies it). But if I look at the photo location or the heatmap of locations visited, it's not there.  
+
+Maybe I could API something, google vision API will return a placename to me from any picture, but it doesn't provide a gps coord, and so I'd be also looking at a  lookup of it based on the detected name.. Unlikely to work reliably.
+
+Any suggestions?  It's frustrating that with all the AI advances, Photoshop regenerative fill, text to image midjourney, etc.. NO ONE is working on describing  / identifying images.  (image to location/text).  
+
+&#x200B;",https://www.reddit.com/r/googlephotos/comments/142x40j/,3,googlephotos,reddit_post,,search old photo | search not working,out_of_scope,high,,"User is asking how to automatically geolocate and tag old photos, not searching for a missing photo or incomplete memory retrieval.",,,[],[],[],[]
+reddit,zlcfrh,2022-12-14T00:43:36+00:00,"Transferring photos and albums to new account
+Hello everyone. I apologize if this question has already been answered, but I was not able to find it easily using the reddit search.. 
+
+I am trying to transfer my google photos data to a new account. I have to abandon the old university account since the storage space previously given to alumni accounts was revoked. 
+
+I was able to successfully transfer my photos to the new account using Partner Sharing, I believe. As a test, I deleted a photo from the old account, and it still appeared on the new account. This solution is commonly described on other forums and reddit posts. 
+
+How do I transfer albums, or do I need to re-assemble them? I have multiple shared photo albums that consisted of photos from my old account and my partner's old account (she also needs to transition to a new account). If I 'share' the album with my new account, and the new account contains the same photos as the old account, will the album still exist when my old account is deleted? I seem to think no, but I hope I am wrong.. 
+
+If that question is at all confusing, let me know and I can rephrase. I am just trying to prevent the need to rebuild the shared photo albums one by one.
+
+Update: I attempted deleting a photo in a shared album on my old account, and it deleted the photo from the shared album, even though the photo was on the new account. As expected. Still looking for suggestions!",https://www.reddit.com/r/googlephotos/comments/zlcfrh/,1,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is asking about how to transfer albums and whether they will persist after deleting the old account, which is a process question rather than an incomplete-memory retrieval issue.",,,[],[],[],[]
+reddit,xenhgc,2022-09-15T04:49:03+00:00,"Keyword search function has decreased dramatically?
+Example: In 2017 I searched for the words ""haunted"", ""scary"" or ""creepy"" and I would get boatloads of results from my many photos. The results were fantastic in that I had several photos of things I'd uploaded that were indeed of an unsettling nature, such as an old creepy abandoned house, or pictures of a very impressive bonfire that had creepy surroundings, or a pile of thousands of dead bees I once took a picture of. These pictures had absolutely no keyword tags or naming conventions to indicate that they should be labeled as such. They just appeared in the formerly wonderful keyword search on Google Photos.
+
+Now, using the same keyword searches bring up nothing but screenshots that contain said keywords in text but nothing else. NOTHING else.
+
+This really creepy rocking chair my brother found in his attic when he bought a house was always one of the top results when I searched using one of those keywords. I can still find the photo manually, but not with any keywords that formerly worked.
+
+
+Am I out of the loop? Has something happened?",https://www.reddit.com/r/googlephotos/comments/xenhgc/,6,googlephotos,reddit_post,,search old photo,in_scope,high,,"The user is attempting to locate photos using keyword searches that previously returned results but now do not. They lack precise query details (date, filename, album, or location) and are trying to retrieve photos they believe exist in Google Photos. This fits the incomplete-memory retrieval definition.",wrong_results,camera_photo,"[""visual_appearance"", ""place"", ""person"", ""rough_time"", ""emotion"", ""purpose_context"", ""photo_type""]","[""exact_date"", ""location_name""]","[""keyword_trial_and_error""]","[""Keyword search function has decreased dramatically?"", ""In 2017 I searched for the words \""haunted\"", \""scary\"" or \""creepy\"""", ""Now, using the same keyword searches bring up nothing but screenshots that contain said keywords in text but nothing else."", ""This really creepy rocking chair my brother found in his attic when he bought a house was always one of the top results when I searched using one of those keywords."", ""I can still find the photo manually, but not with any keywords that formerly worked.""]"
+reddit,vpct9h,2022-07-01T22:27:48+00:00,"Google photos is a constant sh!t-show for me. Swiping up on a photo gives blank properties/options page. Uploading new photos can take many minutes to begin or multiple hours. Cant search a particular album name. Albums are listed by date of oldest photos in the album…
+This morning I searched through some old photos to create a birthday album for my son. Swiping up (or using 3 dots menu) more often than not gives a blank properties/option card or page- whatever they call it. Sometimes I’d let it sit on that photo and swipe up again and the details would finally show, or I would swipe left or right to a different picture then swipe up, the details would show, then with details showing I’d swipe back to the one I wanted and the details would be there. I’m constantly fighting with this app do get it to do what it should do. 
+
+Uploading new photos from my iPhone pro max 12 or my PC can take minutes or hours. There’s no telling. 
+
+Also- an album I created was apparently nowhere in sight- wouldn’t a new album be sorted by its creation date and be at the top? Nooooo… it’s organized by the date of the oldest photo or maybe the first photo added which in my case was from 2001. I had to scroll down through HUNDREDS of albums to find it. 
+
+AND I can’t search the name of the album, “Cameron Birthday Pics”. The album doesn’t show as a result. Only pictures of Cameron at birthday parties. 
+
+A complete sh!t-show. Amazon Photos here I come.",https://www.reddit.com/r/googlephotos/comments/vpct9h/,1,googlephotos,reddit_post,,search old photo,out_of_scope,high,precise_query_failed,"The user is attempting to locate an album by its exact name (“Cameron Birthday Pics”) and reports that the search fails to return the album. This is a precise-query-failed scenario, which is explicitly marked as out of scope. The post also contains other unrelated issues (blank properties page, upload delays, album ordering) that do not fit the incomplete-memory retrieval definition.",,,[],[],[],[]
+reddit,vnigrq,2022-06-29T15:28:20+00:00,"Issue with people being removed (face labels)
+Hello,
+
+I am having a ridiculously annoying issue where faces that are detected (when opening the photo it has a detected face ready for me to assign to a person) get removed a short time after I do the work of assigning them.
+
+For example if I have 20 photos of my best friend at a BBQ event, I open the first photo, assign the face to a new person, name this person ""Bestfriend"", then proceed to the 19 other photos to assign their face to ""Bestfriend"".
+
+Some time later all this is gone. It's as if I did not do anything. A rollback of some kind. The face is still detected on the photos, but the person I created for this face no longer exists, and does not even show up as nameless on the ""people"" list.
+
+I can then redo all the work over again, but it will be gone once again soon after.
+
+This is not new. This has been happening to me since 2019 or 2020.
+
+The people it happens to it totally random. Some family members and friends work 100% fine, old and new photos get automatically detected, assigned to the right person etc. Others no matter how many times I manually do the work it just rolls back.
+
+What do I do to fix this? I haven't been able to find anything online. All the search results lead me to people who can't get it to work at all, and not really my situation where it only doesn't work for some random people.
+
+&#x200B;
+
+Thank you,",https://www.reddit.com/r/googlephotos/comments/vnigrq/,1,googlephotos,reddit_post,,search old photo,out_of_scope,high,editor_feature,"The user is reporting a bug where face labels are removed after assignment, which is an editor feature issue, not an incomplete-memory retrieval request.",,,[],[],[],[]
+reddit,ttbkcb,2022-03-31T22:30:22+00:00,"""Can't connect"" on LTE/5G
+Not sure this is my carrier (Verizon) problem. But my Google Photos on iOS never works on LTE/5G. No search, no browsing old photos. It only works with WiFi. This is quite frustrating when I need to find a photo on the go. I had to go to iCloud/Apple Photos.
+
+Is this a legit bug or issue?
+
+I'm a paid user for Google Cloud (100GB plan) and I enabled using cellular data to back up both photos and video. I'm using an unlimited Verizon in USA.
+
+&#x200B;
+
+https://preview.redd.it/wm1ocs4pqsq81.png?width=1170&format=png&auto=webp&s=ebdd2c73d1c7dd8f2470bf014feca3b3dfb209e1
+
+https://preview.redd.it/vub5yt2ipsq81.png?width=1170&format=png&auto=webp&s=36e7b2fffbe5c326d1da225b7f4f3b74845e8dc9",https://www.reddit.com/r/googlephotos/comments/ttbkcb/,1,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"User is reporting a connectivity issue with Google Photos on LTE/5G, not a problem of incomplete memory retrieval.",,,[],[],[],[]
+reddit,p55on7,2021-08-16T00:55:53+00:00,"Helpful hack: How I manually tag unrecognized people in my photos
+Google Photos does not currently allow manually tagging faces and frequently can't find some faces on the pictures. Here is a little trick I found to search for the unrecognized person's photos. 
+
+Simply write names of unrecognized people in the description field. I personally write them exactly how I have them in my contacts. Now you can search for the name of the person and find their photos even if no faces were recognized on the photo. 
+
+Unfortunately, the photos you manually named will not link to the person's profile but if you search their name in the search field the results will pop up. This is helpful especially with lower resolution or old photos. For example: I scanned all black/white photos of my great-grandmother. Most of faces were not recognized. However, I still can search her name and get all her photos now.",https://www.reddit.com/r/googlephotos/comments/p55on7/,6,googlephotos,reddit_post,,search old photo,out_of_scope,high,editor_feature,"The user is describing a workaround for manually tagging faces in Google Photos, which is an editor feature. They are not requesting help to retrieve a specific photo or experiencing a bug, so the content is out of scope for incomplete-memory retrieval.",,,[],[],[],[]
+reddit,m4r1ol,2021-03-14T08:05:26+00:00,"Can anyone with the album link search the album?
+I've taken it upon myself to scan a bunch of old family photos and share with said family. Not every photo is relevant to everyone shared, so I was hoping that they could just find photos of them.
+
+Is it possible for people that the album has been shared with to search by name/face?",https://www.reddit.com/r/googlephotos/comments/m4r1ol/,2,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"User is asking about search capabilities in a shared album, not about incomplete memory of a specific photo.",,,[],[],[],[]
+reddit,krez5c,2021-01-06T03:13:03+00:00,"I'm thinking of uploading my PC based photo archive to GP and I have a few questions.
+I would like to use Google Photos as by backup and photo library for all the digital photos I have on my PC hard drive. I would like to to continually sync between the the PC and GP.  I'm almost sure it is possible but the devil is in the details and I have a few questions:    
+
+
+**Background:** 
+
+I have 365 GB of photos on my hard drive, (49,000 files).
+
+I have 900 GB available space on Google Drive.
+
+The photos on my drive are organized in directories and subdirectories
+
+About 60 percent of the photos are in RAW (Canon EOS 5D Mark II) format.
+
+None of the photos have Geotags (old DSLR)
+
+A typical directory looks something like this: **H:/photos/2012 trip to china to/Edited** , Where the main directory holds all the RAW photos, and the ""Edited"" subdirectory has a subset of the edited photos in JPG.
+
+**Questions:**
+
+**1)** Does google photo uploads a flat database? What does Google Photo do with the directory hierarchy and directory names?
+
+**2)** How would I search for a specific photo on GP, the only location reference is the name of the directory
+
+**3)** Some of the directories contain .XMP files which Adobe photoshop uses the keep editing parameters, what would google photo do with these files?
+
+**4)** Would GP treat RAW files differently when it comes to its AI features such as face recognitions etc.?
+
+**5)** How practical is it to upload 360 GB of photos using the ""Backup and Sync"" utility?
+
+**6)** My Google photos account already has 29 GB of photos from my phone. will these photos end up on my PC's hard drive?   
+
+
+Thank you!  
+A",https://www.reddit.com/r/googlephotos/comments/krez5c/,7,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is asking general questions about uploading and syncing a large photo archive to Google Photos, directory handling, RAW file treatment, and backup practicality. This does not involve an incomplete-memory retrieval scenario where the user believes a photo exists but cannot locate it. Therefore the request is out of scope for the incomplete-memory retrieval labeling task.",,,[],[],[],[]
+reddit,h07bzv,2020-06-10T09:18:52+00:00,"Face grouping working but not working? Weird issue
+So, i had this issue earlier, where manually tagged photos on the web were not showing up on my phone, so i called support and they suggested the same old steps
+1) Clear Data
+2) Clear Cache
+3) Logout of your account
+4) Uninstall Photos
+5) Reinstall photos
+6) Login to your account
+7) Wait a few days
+
+Since my issue was on all my phones, i thought i would test the above steps on one of my phones and voila it worked. I could see my face tags but now i don't see any faces in the photo itself even though the face grouping works? Hope this makes sense. All my photos are missing faces, but the face grouping works?
+I did the same on my other phones and the outcome was same. Now i can search for the person by name, but when i open the photo, i cannot see the face tags neither 'edit the face tags' :( what is happening?",https://www.reddit.com/r/googlephotos/comments/h07bzv/,3,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is describing a bug where face tags are missing from photos after a reset, not attempting to retrieve a specific photo. This falls outside the incomplete-memory retrieval scope.",,,[],[],[],[]
+reddit,abir7t,2019-01-01T15:00:17+00:00,"Best way to organize a set of photos so you can get at them in an app that doesn't support Google Photos
+I often have three or so photos that I've handpicked on Google photos for a post on Instagram. I can start then or add them to a folder, but when I go to Instagram I can only access photos through the file manager, not Google Photos. This means I have to go through and find each individual photos again. If it were just one photo I could share it right from Google Photos into the app, but I don't think I can do that with a set of three photos.
+
+The only solution I can think of is to somehow use Google Photos to create a physical folder (not a virtual, Google Photos album) with the pictures but I can't find a way to do that.
+
+Sometimes if the photo is old enough that there isn't a copy on your phone you can ""save to device"" and it'll show up at the top, but if it's more recent this doesn't work.
+
+I run into this issue with Instagram, setting profile pictures in apps, using those photo book making apps, etc. Anytime I can't use the Google Photos share menu to share the photos right into the app.
+
+I have failed Google because I'm not sure how to search for this issue, but I'm sure other people have run into it!",https://www.reddit.com/r/googlephotos/comments/abir7t/,2,googlephotos,reddit_post,,search old photo,out_of_scope,low,,"User is asking for a method to share multiple photos from Google Photos to other apps, not for locating a missing photo.",,,[],[],[],[]
+reddit,a4bnhk,2018-12-08T15:38:41+00:00,"Keeping original image files while using Google Photos? Backups outside of Google Photos?
+So, I'm a typical user with a family of iPhone users, a DSLR cam, and a bunch of old photos that were saved or scanned.  I love Google Photo's ability to search and organize images.  My question is backup of those images.
+
+I'm assuming that one day Google Photos will go away (or I'll go away from Google Photos).  I want physical files on my own computer.
+
+Right now I backup my iPhones using Image Capture and dump the files into dated folders (2018 12 08 Bob iPhone Backup). 
+
+I have dated folders for my DSLR.  Similar format name.
+
+Old photos, same.  
+
+Google Photos is installed on the iPhones and on the computer where these files are stored.  They all end up in Google Photos.
+
+**Question**: Can I skip backing up my iPhone and have Google Photos save the images to Google Drive, where they'll be saved locally?  Or once they're in Google Photos I can't sync them out?  I'm thinking Google Photos is a one-way into it kind of thing and I have to keep doing my own backups like I have.
+
+What do you guys do?",https://www.reddit.com/r/googlephotos/comments/a4bnhk/,8,googlephotos,reddit_post,,search old photo,out_of_scope,high,,"The user is asking about backup strategies and whether Google Photos can sync to Google Drive, not about retrieving a specific photo or memory of a photo. Therefore the request is not an incomplete-memory retrieval case.",,,[],[],[],[]
+reddit,1sji2pq,2026-04-12T15:48:17+00:00,"Which program do you use to automatically organize your phone photos? (iPhone/Samsung)
+I have **hundreds of unsorted phone pictures** on my hard drive, which accumulated over the years of traveling and just everyday life.
+
+**My Google Photos storage is full** and I **don't want to pay a subscription** to keep my photos organized. Also, I **don't want to have all my photos to the cloud**, I would be happier having them locally on my computer/hard drive.
+
+So far I didn't find many good options that achieve what I want it to do (see screenshot)
+
+**What do you use to organize your photos nicely**, so it's easier to find what you are looking for or to show friends/family etc.?",https://www.reddit.com/r/googlephotos/comments/1sji2pq/,6,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"The user is asking for a recommendation on photo organization software, not attempting to retrieve a specific photo from Google Photos. This falls outside the incomplete-memory retrieval scope.",,,[],[],[],[]
+reddit,1qqthez,2026-01-30T02:52:38+00:00,"Another Victim of A Google Photos CSAM False Positive
+As it sounds, but I've been reading a TON of the same old song and dance horror stories about people getting nailed by google regarding false positive csam content just because they had things such as photos of their own family or even things as stupid as images of skins they had saved from video games (which was my case). 
+
+I ended up panic deleting the downloaded images of cute game skins I had saved as well as some family photos (including some stuff of myself as a child bathing and whatnot) and while I did put in an appeal, I see no hope at this rate based on what has been said here. I was just mostly hoping for some insight and whatnot. 
+
+Wanted to mostly know more about the processes and other problems to possibly expect. Like, should I expect police to come knocking at my door over a video game character summer themed swimwear skin or literally just me as a child? Or do the police have better things to do than chase single-time allegations? I'd assume google like, saves some kind of metadata or a screenshot or something for valid proof and it'd be seen as ridiculous when the AI shows it? Honestly I'm just wondering what to expect, as I said.
+
+I know I don't have much reason to worry since it's basically the same crap a lot of other people have been through here, but the concern is still there for excessive escalation on Google's part by reporting what their faulty AI found as ""inappropriate"" to police even though I've yet to find any accounts of such happening from the situations I have read so far. 
+
+But that aside, I appreciate any help or input. I'm likely going to stop using google services, or at minimal just not waste time chasing my account if it's not worth putting that effort into. 
+
+Thanks!",https://www.reddit.com/r/googlephotos/comments/1qqthez/,64,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"The user is discussing concerns about Google Photos’ CSAM flagging and potential police involvement, not attempting to retrieve a specific photo or missing metadata. This falls outside the incomplete‑memory retrieval scope.",,,[],[],[],[]
+reddit,1qeb0id,2026-01-16T08:56:37+00:00,"Why does GP not realise it hasn’t backed up thousands of items from my phone?
+This is an unimaginably long story cut short for the sake of the post, bc after honestly about a decade of iPhone / iCloud storage issues and countless Geniuses who have no idea what the problem is I’ve just given up trying to fix it and I’m just working around it. 
+
+For years the photos/videos on my iPhone unreliably uploaded to iCloud. I didn’t notice this for ages but when I finally did realise it was because I had somehow accumulated tens of thousands of photos/videos on my phone totalling >80GB storage. The only reason it wasn’t more was because \*\*some\*\* items did manage to sync and so were converted to the lower quality iPhone storage saver versions. 
+
+A couple of months ago I got Google Photos. I used Apple’s data transfer thing to transfer all the media on my iCloud to Google Photos, which I was then able to safely delete from my phone to free up space. This removed \~20k items from my phone, but slightly disappointingly only freed up 11GB of space.
+
+I still have >10k items on my phone and since the data transfer I’ve re-accumulated >80GB storage used up by Photos. 
+
+I don’t think I can use the Apple data transfer tool anymore as the whole problem is that they’re \*not\* uploaded to iCloud. But when I go into the GP app, it’s as though GP doesn’t realise just how many items it needs to backup. 
+
+Obviously the first thing I do when I get the irritating ‘no space on device’ notification (50 times a day 🫠) is do the ‘free up space on this device’ thing. I can’t say this is the case 100% of the time but it seems like most (if not all) of my recently taken pictures/videos do successfully backup to GP because it’s mostly (maybe always and only) these that end up getting deleted when I free up space; the problem is with the items dating back over the past 10 years \*\*before\*\* I got GP with the whole ‘not syncing to iCloud’ thing. These are the items that GP seems to not register and select for backups. 
+
+Just to help rule out some of the very basic suggestions, I have all the automatic backup settings enabled. I’ve included screenshots of everything backup-related that I can find to hopefully show this! The screenshot that I’ve drawn a star on, I’ve done that because sometimes it shows loads of pictures there, sometimes it doesn’t. I’m not sure if it just takes ages to load or something. 
+
+TLDR; GP doesn’t seem to register >10k items that still need backing up. Why might this be and how can I forcibly back them up?",https://www.reddit.com/r/googlephotos/comments/1qeb0id/,1,googlephotos,reddit_post,,find screenshot | how do I find,in_scope,high,,"The user is experiencing a situation where Google Photos is not backing up a large number of items that they believe are on their phone. They are seeking help to understand why this is happening and how to force the backup. This fits the definition of incomplete-memory retrieval: the user knows items exist but cannot locate or retrieve them properly. The request is specifically about Google Photos backup behavior, not about storage quota, editor features, crashes, sync bugs, or precise query failures. Hence it is in scope with high confidence.",,,"[""purpose_context"", ""emotion"", ""photo_type""]",[],"[""give_up""]","[""Why does GP not realise it hasn’t backed up thousands of items from my phone?"", ""I’ve just given up trying to fix it and I’m just working around it."", ""I still have >10k items on my phone and since the data transfer I’ve re-accumulated >80GB storage used up by Photos."", ""GP doesn’t seem to register >10k items that still need backing up.""]"
+reddit,1qa3bj6,2026-01-11T16:14:54+00:00,"Google Photos Backup Settings Issue
+Hi i want to backup a specific folder on my S25 ultra but I cannot find any option to select it.
+
+Further even after enabling backup only favourite option as per the screenshot attached. It is backing up everything on my device. This is wasting my Google photo storage space.
+
+Any resolution is highly appreciated",https://www.reddit.com/r/googlephotos/comments/1qa3bj6/,1,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"User is asking about backup settings, not about retrieving a photo.",,,[],[],[],[]
+reddit,1pfx4lh,2025-12-06T19:04:01+00:00,"Alternative to Google Photos - Redmagic Phone User
+This week I got myself hands on a Redmagic 11 Pro, where the default gallery apps is ""Google Photos"". Issue is - as someone who is extremely used to **Samsung's and Apple's Gallery apps** \- I find Google Photo's UI and image organization to be EXTREMELY annoying.
+
+Like I fail to understand: 
+
+* When you ""take a screenshot"" - it doesn't automatically appear on ""Photos"", only onto ""Collections"" where I have to go through extra UI steps of ""On this device"" >  ""Screenshots""
+* Same thing happens with downloading images as well. Where any images with the exception of Camera gets stored onto ""Collections""
+* Where is the tab for ""Albums""? 
+* I don't need shit like ""Places"",  ""Revisit the Moment"", ""Spotlight"", etc. When I open a gallery app, I expect to see a comprehensive list of my photos and photos only.
+* If preferable, I do not want my photos to be organized by ""Months"" and ""Time""
+
+Basically I NEED a photo gallery app that can **automatically place all images onto 1 user interface/place** \- whether it be camera shots, downloads, and phone screenshots.
+
+**Where the Key Point:** It needs to be offline only. Where if I were to download a Gallery app, I SHOULD NOT have to be prompted to create an account, or gain access to the app using an IP address, or whatever that is.
+
+I can do APK files, if need be. But given Redmagic's limits the gallery alternative would preferably be something on Playstore, something that it can support.
+
+So with that said, what are best, free & offline alternatives to Google Photos?",https://www.reddit.com/r/googlephotos/comments/1pfx4lh/,1,googlephotos,reddit_post,,find screenshot,out_of_scope,high,not_google_photos,The user is asking for alternative gallery apps and not attempting to retrieve a specific photo from Google Photos. This falls outside the incomplete-memory retrieval scope.,,,[],[],[],[]
+reddit,1oz38mv,2025-11-17T01:26:46+00:00,"Please help! I think I fked up badly 😢
+Ok i first typed out this ENORMOUS explanation for wtf I did but fr, its almost completely irrelevant.
+
+So imma try this again, just better...
+
+
+Ok so I have been running 3 phones for the last 4-ish months Ok...transitioning if you will. My oldest phone, my super awesome friend used to pay the bill, couldn't any longer, it was shut off. Ordered a new line, somehow, magically, with AT&T. Got my first brand spanking new awesome-sauce expensive phone ever....Samsung Galaxy Flip 7. Had service for all of like 2 weeks ago they shut that line down fast as shit
+I dunno why still actually but again, irrelevant...so again, needed a damn phone..a different service...still....again.  A friend gives me One...order govt Sim card. Free service.  Bam. Ok.fast forward to last week ok...so I actively still use the first 2 phones  pretty heavily right. Both on only wifi now.but had service at one point. Shut off. Locked carrier. Different companies. Anyways...so I play games quite a bit Ok..like on both phones
+..downloaded different shit on each device at separate times n shit right Ok. So I still need to have like actual service tho.rigbt so that's where the 3rd phone.comes In. 
+
+
+
+Ok so 3 phones .. with each having the dreaded ""new"" email that I created upon actively each phone Ok
+ ... plus my old emails etc etc. So first phone has my whole world in thst shit....probably 7/8 emails on emails on that phone...still have it and can login etc etc. No issues ok. I know that whatever was the actual main account for the first is most likely the account it syns to, set by default unless you manually change it. Correct? Ok so 3 phones all have the same access on all 3 more or less. Each kinda overlaps, then runs along side each  other..all sync to the same place I THINK. I guess l assumed idk. So I knew I had a larger kind of clusterfuck bullshit to deal with at some point. I knew id eventually,  fairly sooner than later would be selling the flip. Hated that phone with all my soul.  Irrelevant but so I really tried to refrain  from getting too involved or entangled on that device so I didn't confuse myself down tbe line Ok.
+
+
+So whatever my damn point is im pretty sure I fked up real good.
+
+.so bc I dont have ID currently, i needed some..one
+.if not 2 people's help to sell this flip 7 phone right. So basically I be having to jump in where I fit in on someone else's schedule right. Opportunity came....very fast..I wasn't prepared of course bc I never never am. I try so hard sometimes it physically HURTS me.. so baby daddy agreed to help me out..called & said he was on his way he'd be at the house in 2o minutes & to be ready
+..like outside ready,  he had to hurry.
+.
+Ok.  Bet.  
+
+So im like hahahahhahshshhs I'm not even like half ready yet oh  and neither is the fkn phone!!!...
+
+
+Shit 
+Fuck 
+Fuck! 
+
+Shower I'll figure it out in a few. 10 mins.later im.resetting the fker as I walk out to get in his.truck. I only had this one.chance..he has zero.patience. ..got shit to do,he ain't waiting.you know 
+
+
+So I'm aware of what I did. To some extent, at least I thought. 
+
+Because I still used this phone actively,  wifi only but still...everything was always instant so im assuming it was synced, things are Gucci right...cause I used each phone..took different photos, took screenshot and downloaded my bullsht from tik tok, Facebook, Pinterest,  and a million saved screenshot s of  whatever cooking site I was obsessed with at the time....each phone would use Google acct separately yet still collectively ....bc each syncs to the same Google photos acct. I think. Not even sure if I even make sense or if that's even a thing but so fk
+..
+
+...3 phones..
+
+That,say, at any given time was using the same 3 emails..simultaneously. for games Facebook,  website sign up bullshit, for my Google photos whichever ya know.  Sync turned on. Same Google photos I think.  Set it up once and i thought I was good.
+
+Now they ARE ALL.going to the SAME EXACT spot,  right???
+
+I didn't back.up.that.phone before I reset it.  🥹😭 I had tried to s a Samsung smart switch or tried.to look and see if there was anything important on there that ""i didn't want to lose""..
+
+We would absolutely still be fkn sitting here i.fkn.assure you. 
+But I see it to.save everything to the same location ..i always use the same email acct for. Photos bc why wouldn't you want them to.be in the same spot right? So.same directory..they are all.set to.back up every picture.every download every folder..each phone was used every few days so relatively current im thinking. I should have done smart switch or attempted to create at least a takeout I know but I have add really  bad its absolutely impossible for me to ever be able to successfully accomplish that in.a relatively NORMAL AND ACCEPTABLE amount of time like normal ppl can. Especially knowing thst flip phone..it's storage..256 GB...was basically totally full. Uuhh...just where did I think I was going to be backing all that up to...In 2o mins
+.with no resources large enough to hold all that. 
+
+I wanted to cry. I didn't have time. Google is synced
+ Back up is set and on. I just used the phone earlier.  I should be good right??
+
+
+RI G H T???
+
+
+I close my fkn eyes and clicked reset all. It had to be ready for tne kiosk..he was gonna be there any second. I'm moving i NEEDED thst money. Like yesterday type shit.  I had no.choice. I said a prayer and ran. 
+
+So I sold it to eco ATM. I figured id be good. I. Log into photos on the new phone . Like I had before..not AS often as the first 2 phones but again...
+Google synced to same acct.
+Back up on.
+Used daily ...has active service 
+
+
+I log in. Click refresh 
+
+
+Not seeing my normal shit right. ..uh oh 
+
+I ended up actually needing something I had screen shotted on  one of the other phones. These devices should also I have been adding in everything...like EVERYTHING...device files..my Pinterest saves, tik tok ..Facebook photos I saved to device...every ticked folder ...I always back up all. So for the last 10 years..I've had 3 main emails. Numerous devices but same accts. Shouldn't every fkn thing I've ever saved on every fkn phone sync to the.same fkn spot.? Sync on. Backup on. Backup acct same. Storage not full yet. No errors or anything.
+
+Please help me figure out if I can somehow find those pics somewhere cause I be refreshing photos...im.not seeing anything from the other phones on there. Like nothing. I'm definitely thinking I just fked up hard core.  Thst second phone h ad sooo much shit on it. Saved presences, bookmarked websites, passwords.  The norm right. Ok so if Back up acct is set. It's turned on. Phone is used daily on wifi.  Back up folders selected. Where are those pictures??!? Please tell me if can get to them somehow.  I did NOT go directly into tbe Backup menu before resetting bc i just couldn't 
+. Besides Backup is turned on. Sync is on. Everything is up to date. I didn't do a smart switch or. Ask for a Google takeout bc I assumed the data stayed w the account also. Google saves every fkn thing. Everything. Resetting the device should  not delete the info syncedn or saved or signed in with. Correct???
+
+
+It can't be completely gone is it??? I have to be missing something here someone Please help me.  
+
+
+I'm so sorry this is so God dang long ..so so sorry 😞 
+
+Thank u for reading, for understanding and for possibly assisting! I'm freaking devastated rn fr 💔  
+
+Oh and also, all 3 phones STAYED on the home wifi..same frequency...same router. 24/7. The entire length of the last 6 months.  Never anything else unless I was at the grocery store or.whatever. so same network, 24/7. The entire.time. wasn't sure if thst was.at all relevant. 
+
+
+TYIA",https://www.reddit.com/r/googlephotos/comments/1oz38mv/,0,googlephotos,reddit_post,,find screenshot | find picture,in_scope,high,,"The user believes photos from multiple phones were synced to Google Photos but cannot locate them, lacking a precise query (date, album, filename). This matches the incomplete-memory retrieval scenario.",not_indexed_not_found,unknown,"[""person"", ""emotion"", ""photo_type"", ""purpose_context"", ""rough_time"", ""place""]",[],"[""keyword_trial_and_error""]","[""Google synced to same acct"", ""Back up on."", ""I close my fkn eyes and clicked reset all"", ""I log in. Click refresh"", ""Not seeing my normal shit right. ..uh oh""]"
+reddit,1nel4wm,2025-09-11T21:27:18+00:00,"Google Photos uploading pictures I did NOT take every time I back up to Google drive
+Had a yard sale this past Saturday, 9/6/25 so I took a lot of photos. Since Saturday, everytime I snap new images with my Google Pixel 7 phone and back them up to my Google drive, additional images about e-currency are being added to my Google Photo drive. WTH? 
+
+All the images are regarding Bitcoin and they look like slides from a sales pitchi, but some appear to be receipts (also slides). I have no interest in Bitcoin or anything related to it. I have not been searching for any of the info that appears in the pix. 
+
+I did not screenshot or save any of those images BEFORE they appeared in my photo library. 
+
+AFTER they appeared in my Google Photo library, I saved the first 47 to my desktop so I could see if there were any clues about their source.  Didn't find anything, but I'm not an expert. 
+
+What I have done to mitigate:
+
+* Changed my Google One password. 
+* Deleted all the images from Google Photos
+* Deleted all the phone apps that I am not using or that could be the culprit. 
+* Shut down, then restarted both my Pixel 7 and my laptop at the same time. 
+
+Even after all of that, I am still having the problem. Every time I take a new photo with my Pixel 7, new Bitcoin images show up in my Google Photo library. 
+
+Any info you can provide about why this is happening will be greatly appreciated.",https://www.reddit.com/r/googlephotos/comments/1nel4wm/,0,googlephotos,reddit_post,,find screenshot,out_of_scope,high,sync_or_deletion_bug,"The user reports a bug where unrelated Bitcoin images appear in Google Photos after uploading, not a request to retrieve a specific photo with incomplete memory.",,,[],[],[],[]
+reddit,1nb3kzq,2025-09-07T20:15:19+00:00,"Google is making my images darker when uploading from computer. Corrects itself if downloaded on my mobile.
+The weirdest thing is happening when I upload photos from my PC.  Google photos is making my photos super dark but displays them correctly when I download locally on my phone? Attached photos show the issue.
+
+Picture 1 is a comparison between as seen in Windows Image Viewer vs what google photos shows in chrome. 
+
+Picture 2 shows how the photo looks when viewed on my phone. Same upload just looking in the mobile app.
+
+Picture 3 shows what happens after I download the photo locally on my phone and view in google photos app.
+
+Picture 4 shows a comparison of the way the photo is displayed after download  compared to the screenshot.
+
+I took before download. Something very strange is happening. Anyone else experiencing this? I cant find any default or auto edits being applied. 
+
+  
+For the record I am a hobbyist photographer and have been uploading albums like this from my Canon R6m2 after editing them in Darktable for months but only encountered problems sometime within the last week(?).",https://www.reddit.com/r/googlephotos/comments/1nb3kzq/,4,googlephotos,reddit_post,,find screenshot | find picture,out_of_scope,low,,"The user is describing a problem where Google Photos darkens images when uploaded from a computer, not a request to retrieve a specific photo. This is a bug report, not an incomplete-memory retrieval scenario.",,,[],[],[],[]
+reddit,1n0t8lg,2025-08-26T18:07:34+00:00,"Google Takeout JSON Files
+I am Attempting to back up my photos on my Google Photos. I requested the photos via ""Takeout"" and downloaded them. 
+
+When I use Exiftool, it expects to find (photname.jpg  +  photoname.jpg.json) 
+Instead, I have (photoname.jpg  +  photoname.jpg.supplemental-metadata.json) 
+
+The issue is the program does not recognize this type of JSON file. Why is getting the original metadata put back onto the picture so difficult? Any ideas on how to do this in 2025? Why are my JSON files so weird? 
+
+Last thing, the problem is also that the JSON files names are veriable. They're all different. Some end in
+-.jpg.sup.json
+-jpg.supplement.json
+-jpg.supp.json
+-jpg.supplementary-me.json
+
+Etc, theyre all so weird. I'll send a screenshot with some examples that I have below. Any ideas?
+
+I really want to add the original metadata to my photos. If anyone has any better ideas I am more than happy to hear them, any loopholes or anything. Thank you everyone!!",https://www.reddit.com/r/googlephotos/comments/1n0t8lg/,0,googlephotos,reddit_post,,find screenshot | find picture | how do I find,out_of_scope,high,,"The user is asking about handling Google Takeout JSON metadata files and how to add them back to photos, not about locating a specific photo or video in Google Photos. This does not fit the incomplete-memory retrieval definition.",,,[],[],[],[]
+reddit,1lw6odd,2025-07-10T07:33:28+00:00,"Storage Usage on Google Drive Doesn't Match My Files
+Apologies for posting it here. I couldn't find help for google drive. If it exists, please point me in the right direction!  
+
+
+So, I noticed something strange with my Google Drive storage. Google Drive says I'm using over 600 MB, but when I look at my actual files (see attached screenshot), I see only a few items that add up to about 100 to 150 MB at most. I've already checked the trash. It's completely empty.  
+What should I do?
+
+https://preview.redd.it/h9spyhmz10cf1.png?width=2274&format=png&auto=webp&s=31a89337f5d2c7af16e18977585fc537041d977c",https://www.reddit.com/r/googlephotos/comments/1lw6odd/,0,googlephotos,reddit_post,,find screenshot,out_of_scope,high,storage_quota_only,"User is asking about storage usage mismatch in Google Drive, not Google Photos, and it is a storage quota issue.",,,[],[],[],[]
+reddit,1jh2ly6,2025-03-22T06:51:26+00:00,"Google Photos Magic Editor Still Causes Loss of Ultra HDR Occasionally
+On Oct 14, 2024, Google has released a statement announcing that use of Magic Editor for ""complex edit"" will now retain Ultra HDR. 
+
+I used it all the time, and the statement was true...for 70% of the time.
+
+  
+For the others, for an unknown reason (I'm still investigating trying to find out what could be the reason), simply erasing object will create output without any Ultra HDR. Sometimes, the output will show up in the preview with HDR effect for a few second before going away. 
+
+The loss happens to some pictures, but for any picture where that happens, it ALWAYS happens, no matter how small or what the edit is. Almost like there's a pattern to the input
+
+Magic Editor was extremely helpful so this is very frustrating not to be able to edit any picture that I want without worrying about HDR loss.
+
+  
+Anyone having the same problem or have figured out workaround?
+
+Screenshot: before and after erasing object with Magic Editor",https://www.reddit.com/r/googlephotos/comments/1jh2ly6/,3,googlephotos,reddit_post,,find screenshot | find picture,out_of_scope,high,editor_feature,"The user is reporting a bug with the Magic Editor causing loss of Ultra HDR, not attempting to retrieve a photo with incomplete memory.",,,[],[],[],[]
+reddit,1jg7ers,2025-03-21T03:14:04+00:00,"Help! most photos moved into camraroll all new photos moved into it also. Old folders gone.
+Hello, I was trying to fix an issue of not being able to search by text to find images on Google photos app. Someone said to turn off activity based personalization. I tried doing that, then I noticed that the vast majority of my photos (80%+) moved to one folder, specifically the camera folder on Google photos. I freaked out and enabled activity based personalization again, but it didn't change anything. How can I revert this? Thousands of photos are saved into the camera roll when they were not in the past. And now any new ones go there too. If I save a photo from Snapchat, or a screenshot, or anything else, it now goes into the camera roll. How do I revert this? Please help. It shows up this way both on my android and also PC.",https://www.reddit.com/r/googlephotos/comments/1jg7ers/,1,googlephotos,reddit_post,,find screenshot | how do I find,out_of_scope,high,,"User is reporting a bug where photos are moved to the camera roll and new photos are being placed there, not attempting to retrieve a specific photo with incomplete memory.",,,[],[],[],[]
+reddit,1ixfw7d,2025-02-24T23:05:29+00:00,"Want to confirm that the .json file has the correct date for screenshots
+Sorry if this is a basic question, but I have been looking and can't seem to find the answer.
+
+I am trying to back up all my photos from Google Photos using takeout, and all the screenshots download without a proper creation date (Just the date the file was created on the computer.) I know this is on the phone taking the screenshot to create the correct base metadata, i.e., my pixel, but I want to ensure that when I put it in a gallery view (such as plex), it will sort correctly. 
+
+  
+When I look at the photo on Google Photos the date and time they list is what I want. See below. (Might be the upload date.) Is this data preserved in .json? And can I sort by it?
+
+  
+Side note: is there a way to have it downloaded in folders based on days like it did in the past? Currently, it is just in year folders.
+
+[Data I am hoping to preserve and be able to sort by](https://preview.redd.it/ztrcxb5w26le1.png?width=1605&format=png&auto=webp&s=5604fb0fefb9007b62cc1216538907f1c33b07e9)",https://www.reddit.com/r/googlephotos/comments/1ixfw7d/,2,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"User is asking about metadata preservation in Takeout .json, not searching for a missing photo.",,,[],[],[],[]
+reddit,1iaob2b,2025-01-26T19:48:29+00:00,"is google photos search function limiting my searches to text so i cant find text in screenshots?
+idk why but i try to find a screenshot with a certain screenname or word but it never comes up .
+
+i search my own screenname and it comes up but never consistently or recently  
+
+moreover even words clearly in the screenshot arent searchable especially in recent times and especially since i was able to do all of this very easily in the very recent past.
+
+what gives?",https://www.reddit.com/r/googlephotos/comments/1iaob2b/,2,googlephotos,reddit_post,,find screenshot,in_scope,medium,,"The user is attempting to locate a screenshot containing specific text (a screenname or word) but cannot find it, indicating they believe the photo exists but lack a precise query. This fits the incomplete-memory retrieval definition.",photo_type_mismatch,screenshot,"[""photo_type"", ""emotion"", ""rough_time"", ""purpose_context""]",[],"[""keyword_trial_and_error""]","[""is google photos search function limiting my searches to text so i cant find text in screenshots?"", ""i try to find a screenshot with a certain screenname or word but it never comes up ."", ""i search my own screenname and it comes up but never consistently or recently"", ""even words clearly in the screenshot arent searchable especially in recent times""]"
+reddit,1i0z80u,2025-01-14T05:40:48+00:00,"Google Photos Deleted Every Single Photo I Took From My Device
+I cleared some space in my photos the other day because my device said that my google storage was 97% full. Over the past few days I have been taking quite a lot of photos because I'm on vacation and today I came to find out that every single photo I have ever taken, every sceenshot and a good portion of the photos I downloaded have been deleted off my device and moved to Google photos. 
+
+As far as I can tell I can only download a photo one at a time and even selecting a a years worth of photos it took me like 10 minutes. I'm thinking downloading each photo 1 by 1 is going to take hours or even days to accomplish. Is there any way to download my entire google photos library at once onto my phone. Please I'm kinda desperate. 
+
+Side note, fuck Google. They essentially stole all my photos and uploaded them to their storage service messing up any organization or data in regards to what is a screenshot, photo ect.. on my device.",https://www.reddit.com/r/googlephotos/comments/1i0z80u/,1,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"The user is not searching for a specific missing photo or item; they are asking how to download their entire Google Photos library. This does not fit the incomplete-memory retrieval definition, so it is out of scope.",,,[],[],[],[]
+reddit,1hnwq7l,2024-12-28T03:25:59+00:00,"On Google photos android, is there a way to backup ONLY certain folders? I can't seem to find definitive answer, because as my screenshot tell, I can't exclude the camera default folders. So is this possible?",https://www.reddit.com/r/googlephotos/comments/1hnwq7l/,3,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"User is asking about backup settings, not searching for a photo.",,,[],[],[],[]
+reddit,1gv57fq,2024-11-19T19:10:17+00:00,"Screenshots and screen recordings not showing on Google Photos
+After I take a screenshot or screen record, they don't show when I open Google Photos. How can I get them to show on the main screen on Google Photos?
+
+They don't even show when I go to the screenshots section in Collections. This makes them quite hard to find, forcing me to dig through folders.
+
+I'm not backing up to Google Photos, but using it as a gallery app, as it's the default.
+
+I'm using a Pixel 7 Pro running on Android 15.",https://www.reddit.com/r/googlephotos/comments/1gv57fq/,1,googlephotos,reddit_post,,find screenshot,in_scope,high,,"The user reports that screenshots and screen recordings are not appearing in Google Photos and is seeking help to locate them. They believe the items exist but cannot find them, lacking a precise query such as date or album. This fits the definition of incomplete-memory retrieval.",not_indexed_not_found,,"[""photo_type"", ""purpose_context""]",[],[],"[""Screenshots and screen recordings not showing on Google Photos"", ""After I take a screenshot or screen record, they don't show when I open Google Photos. How can I get them to show on the main screen on Google Photos?"", ""They don't even show when I go to the screenshots section in Collections. This makes them quite hard to find, forcing me to dig through folders."", ""I'm not backing up to Google Photos, but using it as a gallery app, as it's the default."", ""I'm using a Pixel 7 Pro running on Android 15.""]"
+reddit,1gn0dmk,2024-11-09T02:52:41+00:00,"Turning off backup/sync issues
+I take hundreds of screenshots a day when doing app testing.  I hate having to delete them from my phone and Google Photos and OneDrive. I have backup turned off everywhere I can find.  Yes they are actually backed up.  I understand it shows all photos from my phone in the app. They have the cloud symbol and show when I open Google Photos on my laptop.  I have a Bixby routine to turn backup on for about an hour once a week then back off.  I just need it to actually stop syncing when I turn it off first.  Even just not syncing the screenshot and screen recording albums would work.  Onedrive is doing the same thing so either I'm doing something wrong or my phone sucks.",https://www.reddit.com/r/googlephotos/comments/1gn0dmk/,0,googlephotos,reddit_post,,find screenshot,out_of_scope,high,sync_or_deletion_bug,"The user is describing a problem with Google Photos backup/sync behavior, not attempting to retrieve a missing photo. This falls under sync/deletion bugs, which are explicitly out of scope for incomplete-memory retrieval labeling.",,,[],[],[],[]
+reddit,1gh8lrg,2024-11-01T15:51:13+00:00,"Uploading Google photos to a Facebook comment
+Not sure if I'm just missing something super simple or if it's not possible.
+
+I have Google photos on my android with a bunch of different albums for kids, cars, etc.
+
+Let's say a Facebook post asks if they can see a picture of a particular car. I go to reply to that comment and when I click the photo icon, it has no way of linking to my Google albums. Sure I can go down my camera roll within the Facebook app, but if the photo was years ago, that's not feasible.
+
+Only workaround Ive come up with is to go find the photo I want to use and take a screenshot. Then go to the screenshot folder under the photos icon when replying. I used to be able to download the photo and it would show up on my recent, but once it's already downloaded, I can't download it again.
+
+There has to be an easier way of someone replying to a Facebook comment and uploading photos from a Google album. No issues with making my own post or sharing on my feed. This is specifically for replying to comments.",https://www.reddit.com/r/googlephotos/comments/1gh8lrg/,1,googlephotos,reddit_post,,find screenshot | find picture,out_of_scope,high,,The user is asking about a feature (uploading Google Photos to a Facebook comment) rather than trying to retrieve a specific photo from Google Photos. This does not fit the incomplete-memory retrieval definition.,,,[],[],[],[]
+reddit,1ggi1u4,2024-10-31T16:02:38+00:00,"Google Storage Issue 
+Tap and see the full screenshot l've noticed yesterday that my google account is taking 4% of storage and I'm a person who doesn't keep anything on drive, gmail, photo's so i looked it up and it says that
+
+1. Gmail is taking 564.93 MB and when - manually checked there's only 54 MB to be deleted and nothing else
+
+2. Google Photo's it says photo's is taking 64.8 MB but there isn't even 1 KB photo to be deleted 🤷🏻
+
+3. Google Drive that is only thing which is correct there are 4-5 Excel Sheet Files stored in my drive Can anyone help me out of this much appreciated
+
+And sorry if it's been already asked i searched on reddit but didn't find anything about this issue",https://www.reddit.com/r/googlephotos/comments/1ggi1u4/,8,googlephotos,reddit_post,,find screenshot,out_of_scope,high,storage_quota_only,"The user is reporting a storage usage issue, not attempting to locate a specific photo or video in Google Photos. This falls under storage quota concerns, which are out of scope for incomplete-memory retrieval.",,,[],[],[],[]
+reddit,1g3tzsd,2024-10-14T23:32:14+00:00,"How do I restot my screenshot on my Google pixel after factory reset it seems like I tried everything and I can't find any other way
+How do I restot my screenshot on my Google pixel after factory reset it seems like I tried everything and I can't find any other way #restore",https://www.reddit.com/r/googlephotos/comments/1g3tzsd/,1,googlephotos,reddit_post,,find screenshot,in_scope,high,,"The user is asking how to recover a screenshot that was lost after a factory reset, indicating they believe the photo existed but cannot provide a precise query (date, filename, album). This matches the incomplete-memory retrieval definition.",other,screenshot,"[""photo_type"", ""emotion""]",[],"[""keyword_trial_and_error""]","[""How do I restot my screenshot on my Google pixel after factory reset it seems like I tried everything and I can't find any other way"", ""#restore""]"
+reddit,1fxrbww,2024-10-06T21:24:35+00:00,"Problem with locked folder
+I have photos saved in the locked folder and I want to download them without moving them to my normal gallery. The app has an option to download them from locked folder but it doesn't work for me. It tells me they are downloaded (on decide) but I can't find them anywhere. It even lets me delete them from the device but they are not there. I attach a screenshot of the permissions.
+
+Does anyone know if it's some kind of bug or something?
+
+Thanks",https://www.reddit.com/r/googlephotos/comments/1fxrbww/,1,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"User is reporting a bug with the locked folder download feature, not attempting to retrieve a photo they believe exists but cannot locate.",,,[],[],[],[]
+reddit,1fltkcg,2024-09-21T03:03:42+00:00,"Why is Google Photos still taking up storage space?
+Hey folks, as shown in this screenshot, Google Photos is using 9.9GB of storage, even though the ""Review and Delete"" section shows zero items. I had assumed that any photos taking up space, regardless of their size, would appear under ""Large photos & videos."" However, since that category is now empty and Google Photos is still occupying storage, I'm unsure what could be causing this. I've already emptied the bin on all my devices. I've already waited about a week, thinking that perhaps Google storage had yet to register the changes, but it's still the same. Why do you think Google Photos is still using space, and where can I find the photos that are taking up storage?
+
+https://preview.redd.it/itsbygevv2qd1.jpg?width=661&format=pjpg&auto=webp&s=0d5747388a041a0d9a71929e237f48b65493d1d2",https://www.reddit.com/r/googlephotos/comments/1fltkcg/,0,googlephotos,reddit_post,,find screenshot,out_of_scope,high,storage_quota_only,"The user is asking why Google Photos is still using storage space and how to find the photos taking up space, which is a storage quota issue rather than an incomplete-memory retrieval problem.",,,[],[],[],[]
+reddit,1f432b3,2024-08-29T13:55:53+00:00,"Screenshots iOS (iPhone) significantly reduced in 
+I use Google Photos on my iPhone to back up all my pictures.   
+Occasionally, when I want to send a specific photo, I take a screenshot to make it the most recent image in my gallery. 
+
+However, I recently noticed that screenshots taken from Google Photos significantly reduce the image quality, almost to the point of breaking the photo. It feels intentional, and I find it really frustrating. Has anyone else experienced this?",https://www.reddit.com/r/googlephotos/comments/1f432b3/,0,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"User is complaining about screenshot quality, not attempting to retrieve a photo.",,,[],[],[],[]
+reddit,1ekj2gt,2024-08-05T08:59:17+00:00,"People & Pets issue
+I came across an issue where photos was failing to recognize faces, after some googling i learnt that toggling the feature on/off would get it to work again but unfortunately reset all the names I'd assigned to faces in the past etc and that'd I'd have to go into people and pets and add names to the faces again.
+
+I did this and, so said so done. The app was recognizing faces again and i have to tell it who everyone is. However, when i headed over to the People & Pets section there were no human faces there (as in the screenshot).
+
+I'm lost as to how to fix this issue as I can't seem to find any mention of it or a fix anywhere....please help.",https://www.reddit.com/r/googlephotos/comments/1ekj2gt/,1,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"The user is describing a bug with face recognition in Google Photos, not attempting to retrieve a missing photo or video. Therefore it is not an incomplete-memory retrieval case.",,,[],[],[],[]
+reddit,1dhanon,2024-06-16T15:57:58+00:00,"Why is sharing google photos so confusing?
+I want to share google photos with my partner from today on, but I had to sync all photos I have in my gallery already,why? 
+
+Which photos does it share; only ones I take or also the ones other people send me?
+
+Does it share downloads and screenshot?
+I cannot find any information on what is actually shared",https://www.reddit.com/r/googlephotos/comments/1dhanon/,2,googlephotos,reddit_post,,find screenshot,out_of_scope,high,editor_feature,"The user is asking about how sharing works in Google Photos, which is a feature question, not an incomplete-memory retrieval request.",,,[],[],[],[]
+reddit,1c6na58,2024-04-17T22:30:56+00:00,"Locked folder in Google photos impossible to transfer or share
+Every time I want to upload a pic from the locked folder to another app, lets say Grindr, it's a crusade.. I can't even screenshot or make a non-encrypted copy to another folder.
+
+These photos will be hidden or I have to move them first to gallery and then find that specific day and upload them from that day.
+
+Using other gallery apps I could just add all photos I didn't want to show in the normal gallery app to a ""temporarily excluded folder"" and then grab the pics from there, it was much easier",https://www.reddit.com/r/googlephotos/comments/1c6na58/,1,googlephotos,reddit_post,,find screenshot,out_of_scope,high,editor_feature,"The user is describing a limitation of the Locked Folder feature in Google Photos, not attempting to retrieve a specific photo with incomplete memory. This falls outside the scope of incomplete-memory retrieval.",,,[],[],[],[]
+reddit,1bqf1vh,2024-03-29T03:16:44+00:00,"How do I download photos from my Android phone to my PC?
+I got a Google Pixel 8 a couple months ago, and I'm having a hard time getting my photos to my PC. In the past, when I had Samsung Galaxy phones, it was a simple job of plugging the phone into my PC with a USB cable, going to the photo folder on my phone, and cutting and pasting to my PC photo folder. But with the Pixel, everything is saved to Google Photos and I can't find them saved locally to my phone, except for the screenshots right there in the Screenshot folder. How do I find them in my phone's storage, or, if I can't, is there a better way to save them to my PC other than one at a time from Google Photos on my PC?",https://www.reddit.com/r/googlephotos/comments/1bqf1vh/,1,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"The user is asking for a general method to transfer photos from a Pixel phone to a PC, not for locating a specific missing photo or video. This does not fit the incomplete-memory retrieval definition, so it is out of scope.",,,[],[],[],[]
+reddit,1bgypnl,2024-03-17T14:22:36+00:00,"Search text in picture (OCR) not always working 
+Hello
+One of the most common search that I do on Google photos is text that I remember is on the picture. I took a screenshot couple of weeks back, and I type a word I knew was there and google photos couldn't find it. I went back to find that screenshot and the word was clearly written.
+This is just an example but I notice I have more and more fails from Google photo search, why isn't it consistent? How to improve it",https://www.reddit.com/r/googlephotos/comments/1bgypnl/,1,googlephotos,reddit_post,,find screenshot | search not working | find picture,in_scope,medium,,"The user is attempting to locate a photo by searching for text that they remember being in the image. They do not provide a precise query such as a date, album, or filename, and are looking for a photo that they believe exists but cannot find. This matches the definition of incomplete-memory retrieval.",not_indexed_not_found,screenshot,"[""rough_time"", ""purpose_context"", ""photo_type"", ""visual_appearance""]",[],"[""keyword_trial_and_error""]","[""Search text in picture (OCR) not always working"", ""I took a screenshot couple of weeks back"", ""I type a word I knew was there and google photos couldn't find it"", ""the word was clearly written"", ""I have more and more fails from Google photo search""]"
+reddit,17pr788,2023-11-07T10:20:21+00:00,"Help: Photos split between Gallery & Google Photos
+I downloaded Google Photos on my phone (Samsung) earlier this year to use the ""shared album"" feature with some friends after an event. It was great. However, somewhere along the way I obviously gave it the possibility to access/store ALL of my photos, and here is the problem.
+
+Since then it's been 'taking' the majority of new images I either take, download from whatsapp/other apps, or screenshot etc. As well as majority (but not all) of my historic photos. This means all of my images (both historic and new) are for some reason split between my phone's Gallery and the Google Photos app. It's particularly annoying when I want to search for photos on a particular date and either find them missing or only partially, and have to search two apps at the same time.
+
+I've tried a quick search to see how I can fix this myself - I just want my images back in one place! Can anyone advise?",https://www.reddit.com/r/googlephotos/comments/17pr788/,1,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"The user is describing a problem where photos are split between the phone’s Gallery and the Google Photos app and is seeking a fix. This is a sync/storage issue, not an incomplete-memory retrieval scenario where the user is trying to locate a specific photo without a precise query.",,,[],[],[],[]
+reddit,17joecv,2023-10-30T08:07:58+00:00,"Very odd bug?: People blacked out in photo
+Hey everyone,
+
+I encountered a very odd bug that happens on a photo I took and I really want to solve:
+
+The photo thumbnail looked fine, but when I tapped the photo to view it in full, both people in the photo got completely blacked out digitally. 
+
+Now the thumbnail is also blacked out. 
+
+When I try to share the image on WhatsApp, the thumbnail still shows the people ok, but enlarging or sending the photo shows them blacked out.
+
+I tried editing the photo in Google Photos, using filters, HDR, brightness, contrast, portrait light...
+
+Taken on a pixel 6 pro.
+
+Please help! 
+
+I attached screenshots of the enlarged photo, the thumbnail in Google Photos and the thumbnail in WhatsApp. I also managed to grab a screenshot of the animation of the photo getting bigger in WhatsApp before it gets blacked out.
+
+(Ps. I hope this is not The Ring situation, I don't think they watched any haunted footage, but I guess I'll find out in 7 days? )",https://www.reddit.com/r/googlephotos/comments/17joecv/,2,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"User is describing a bug where people are blacked out in a photo, not requesting retrieval of a photo or other incomplete-memory query.",,,[],[],[],[]
+reddit,139xnjy,2023-05-06T18:16:11+00:00,"Need help on transferring Google Photos Locked Folder files to PC
+
+
+I have been using Google Photos's Locked Folder feature and i just learned that the Locked Folder files dont transfer to other devices. And stay only in your phone. I forgot the warnings that tell you that in the start. I know it's my fault.
+
+I wanted to transfer my photos and videos there to my computer to backup them. Is there a way to do it simply?
+
+the app doesn't let me screen record or screenshot the photos/videos in the Locked Folder. So only way of transferring them to my PC is to take them out of the folder and find them in my gallery with my PC, but i have a lot of them and it'd take so much time.
+
+Since there is no option to directly share the files or transferring them to a folder, i dont know what to do.
+
+Does anyone know how can i do this without doing it the long way?
+
+Any helping hand is appreciated, thank you already.",https://www.reddit.com/r/googlephotos/comments/139xnjy/,1,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"The user is asking for a method to transfer Locked Folder files to a PC, which is a feature request rather than an incomplete-memory retrieval issue. The user does not mention a missing photo or video, nor does they provide a precise query that failed. Therefore the request is out of scope for incomplete-memory retrieval.",,,[],[],[],[]
+reddit,1123gsk,2023-02-14T11:47:01+00:00,"Stranger things happen in the in the google photos app on Pixel 7 (favorites)
+I am sorry if this is not the right thread for this, but since i got my Pixel 7 i am so annoyed by, what I seen as a core feature, the fotos. More specific the google fotos app. 
+
+First I had an absolut pain transferring my old fotos from my oneplus 3 to my new pixel. Because the fotos app doesnt allow for manual filter options, like sort pictures according to name, etc.... (Thankfully Whatsapp pictures have the date of sending in the title so i wrote a program that automatically inserted the timestamp according to the title in the meta info of the picture, so google managed to sort them)
+
+But back than I also noticed something that is still an issue today for me. It is the favorites folder. I have round about 200 favorite pictures on my OP3. With my new Pixel, I went through all of my pictures and marked them with the favorit star in order to display them in the favorites folder in the fotos app (again a lot of effort which I had already done on my oneplus but at least I understood why this was necessary)
+
+So I went through and now in my favorite gallery there are some strange things happening which apparently no other person seems to have... After a ceratian picture no more fotos are displayed I just see grey frames and the correct dates of the pictures that should be visible but they arent. 
+
+So I tested a bit around and I couldnt find a pattern. If I remove e.g. the last Picture in the folder that is displayed correctly from the favorites, sometimes a lot more pictures are shown correctly again, sometimes a lot less. So it cant be the work of a single corrupt picture or anything. I also can select the emty frames and delete them but when I scroll to them, there is just an endless loading screen. 
+
+The only regularity is, that it is not a mixture of pictures that are correctly visible and empty frames, it is always the correctly sorted list of good pictures and at some point there are only empty frames left. 
+
+I know that i dont have sync enabled because my phone has 256Gb of storage and I dont see a reason whatsoever to upload my personal photos to a cloud, where they are not only potenitally exposed to the internet and analyses through google and co. NO where I also have to pay to store them if i have more than 15GB (and I have more than 15GB) 
+
+The cloud is not an option and unfortunatly the google fotos app works well with the preprocessing of pictures with a pixel. But if this would be different I would love to have my OnePlus Gallery back from the old Oxygen OS. It was clean, offline and IT JUST WORKED. 
+
+Honestly I think the google photos app is apart from some nice gimmics just useless for me and its whole interface and design is build upon you Upload all your private stuff into the cloud. 
+
+&#x200B;
+
+MORE STRANGENESS: 
+
+While I wrote this post I took screenshots of the incident. Intrestingly when I took a screenshot, all of a sudden more pictures where shown again. Then I made another screenshot, same thing. The third time alle the ""progress"" was gone again, and most of the pictures where empty frames again. 
+
+I probably wont find anyone who has a fix, but can you at least say if anyone has had the same issues? I start to think that something with my pixel is scuffed",https://www.reddit.com/r/googlephotos/comments/1123gsk/,1,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"The user is describing a bug with the Favorites folder in Google Photos, not attempting to retrieve a specific photo with incomplete memory.",,,[],[],[],[]
+reddit,105zuof,2023-01-07T21:13:28+00:00,"Where can I find my screenshot folder?
+I use an Android phone and recently turned on ""Back Up and Sync"" for the Screenshot folder that is located in Google Photos. I want to be able to see this folder and its content via Google Photos on my desktop computer, but I have no idea how to locate it. I can see the screenshots if I click on Explore and select ""Recently Added"", but this seems like a pain. Is there no way to find this backed up folder on a desktop/laptop?",https://www.reddit.com/r/googlephotos/comments/105zuof/,1,googlephotos,reddit_post,,find screenshot,in_scope,high,,The user is trying to locate a specific folder (the Screenshot folder) in Google Photos on desktop but cannot provide a precise query such as a date or album name. This fits the definition of incomplete-memory retrieval.,other,screenshot,"[""photo_type"", ""purpose_context"", ""place"", ""rough_time""]",[],"[""keyword_trial_and_error""]","[""Where can I find my screenshot folder?"", ""Back Up and Sync"", ""Screenshot folder"", ""Google Photos"", ""desktop computer"", ""Recently Added"", ""pain"", ""no way to find this backed up folder on a desktop/laptop?""]"
+reddit,1048izu,2023-01-05T20:01:43+00:00,"Finding photos that take up storage
+I have a Pixel which I use to upload photos that don't count towards storage.
+
+However I still see that some photos take up 183MB of my storage, but there is no easy way to find them among the thousands of my photos (see screenshot). The ""review and delete"" section does not indicate any photos that take up storage. The Is there a direct way to pinpoint those photos?
+
+&#x200B;
+
+https://preview.redd.it/4jr56vw96aaa1.png?width=702&format=png&auto=webp&v=enabled&s=80aab56159080ee5ec711b13baea3afa71c88067",https://www.reddit.com/r/googlephotos/comments/1048izu/,2,googlephotos,reddit_post,,find screenshot,out_of_scope,high,storage_quota_only,"The user is asking how to identify photos that are consuming storage space, which is a storage quota issue rather than an incomplete-memory retrieval problem.",,,[],[],[],[]
+reddit,y61k72,2022-10-17T04:37:11+00:00,"Some videos I download (.mov) don't save into Google Photos. And videos that do often place themselves several months back on the calender.
+I've has this issue for a while. I usually screenshot things I like and so far there's no issues with that, however I noticed that there's a small chance things I download don't always back up/save into Google Photos. I figure this has something to do with the file type but I'm no expert. I use this app called ""File Viewer"" and it works as intended, and I can find videos and downloads that wouldn't save into anything. I also notice that some videos I save (lets say i download it today) will store themselves somewhere in early April of this year. Is this something I can fix? Is there something wrong with my app? I noticed that after a short search that videos that aren't save have a "".mov"" at the end, so I'm assuming these videos don't save.",https://www.reddit.com/r/googlephotos/comments/y61k72/,0,googlephotos,reddit_post,,find screenshot,out_of_scope,high,sync_or_deletion_bug,"The user is reporting a problem with videos not being saved or dated incorrectly in Google Photos, which is a sync/deletion bug rather than an incomplete-memory retrieval issue.",,,[],[],[],[]
+reddit,vs44bl,2022-07-05T18:05:37+00:00,"No 'Group Similar Faces' tab in Photos settings.
+ 
+
+# No 'Group Similar Faces' tab in Photos settings.
+
+A while ago users in our Google Workspace had the ability to use the 'Group Similar Faces' feature. But at some point, the feature stopped working. We have searched the Google Workspace Admin and did not find any settings to enable this.  
+Below is a screenshot of one of the user's Photos Settings:
+
+https://preview.redd.it/fox74j2lhs991.png?width=1376&format=png&auto=webp&s=be77cf5a153703432dddc83e1741e0e760c42f9b
+
+There is supposed to be the 'Group Similar Faces' tab under the 'Suggestions' tab as shown in the screenshot from a free google account.
+
+https://preview.redd.it/ycs2j93nhs991.png?width=1920&format=png&auto=webp&s=ea2aa5b6b0868662f4bee31df40bb79dc7214cbb
+
+  
+Finally, I checked another Google Workspace account and the setting was there.
+
+https://preview.redd.it/2xsmbm2ohs991.png?width=1920&format=png&auto=webp&s=90f73fc0cb8743ee6f23190b13d0a9aac7f72840",https://www.reddit.com/r/googlephotos/comments/vs44bl/,2,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"User is asking about a missing feature in Google Photos settings, not about retrieving a photo.",,,[],[],[],[]
+reddit,vnu547,2022-06-29T23:57:34+00:00,"I need help recovering a screenshot
+There was a screenshot i had but then I deleted it, then i perma deleted it. Now i need it back but i cant find it in my google photos, even tho google photos has a tone of perma deleted photos of mine, and its not showing up in my trash. Is there anyway i can get it back?",https://www.reddit.com/r/googlephotos/comments/vnu547/,1,googlephotos,reddit_post,,find screenshot,out_of_scope,high,sync_or_deletion_bug,"The user is asking about recovering a permanently deleted screenshot from Google Photos, which falls under sync/deletion bugs and is therefore out of scope for incomplete-memory retrieval.",,,[],[],[],[]
+reddit,szan7b,2022-02-23T06:36:25+00:00,"Random spammers/accounts sharing photos via google photos? what's going on?
+Hi, something weird happen and it would be helpful if anyone can help explain what is going on.
+
+I received several email notifications that some random people (3 so far within the last two hours) are sharing photos via google photos. first off, I don't even use google photos, only google docs for uni assignments so this is strange and alarming. I have no idea who these people are and it seems like they are scammers/spammers. they are not on my contacts and I don't know how to block them as I cannot find where this is. I don't know who they are and how they got my email. For more context, please see screenshot attached. How do I stopped these people?",https://www.reddit.com/r/googlephotos/comments/szan7b/,5,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"User is asking about spammer accounts sharing photos via Google Photos, not about incomplete-memory retrieval.",,,[],[],[],[]
+reddit,s7lsve,2022-01-19T08:51:38+00:00,"How to see what photos I have uploaded WITHOUT turning on Backup & Sync?
+When google took away the ability to have unlimited low quality photos/videos, I turned off Backup and Sync because I don't want everything I save/take a picture of/screenshot backed up. But if I went to the Backup & Sync option I could still see everything that I don't have backed up on my phone and choose what to manually back up from there. Which was helpful, because sometimes I save pictures that get sorted in past years, so it gets lost and I can't really find it by just scrolling for it.
+
+Now, after updating a few times, they seem to have taken that ability away. I would have to fully turn on Backup & Sync, which will start immediately eating into my storage space as it uploads a million things I don't want and mixing it all up with everything else so I can't easily hunt it down and delete it. Not to mention taking forever uploading long videos instead of what I actually want backed up.
+
+I had an android phone for like a day last month and noticed that it didn't have this problem. I could still go into the Backup & Sync option and see everything that wasn't backed up and choose what to back up manually from there. But it seems it was taken away on my iPhone.
+
+Is there a way around this issue so I can backup everything or am I pretty much SOL and can't fully backup my stuff without destroying the storage?",https://www.reddit.com/r/googlephotos/comments/s7lsve/,4,googlephotos,reddit_post,,find screenshot,in_scope,high,,"The user is trying to locate photos that exist in Google Photos but cannot specify a precise query (e.g., date, filename, album). They want to view all photos that are not currently backed up, which is an incomplete-memory retrieval scenario.",other,camera_photo,"[""purpose_context"", ""photo_type""]",[],[],"[""When google took away the ability to have unlimited low quality photos/videos, I turned off Backup and Sync because I don't want everything I save/take a picture of/screenshot backed up."", ""I had an android phone for like a day last month and noticed that it didn't have this problem."", ""I could still go into the Backup & Sync option and see everything that wasn't backed up and choose what to back up manually from there."", ""Now, after updating a few times, they seem to have taken that ability away.""]"
+reddit,qjlaqf,2021-10-31T08:31:24+00:00,"So I clicked on free up space on the photos app without really thinking and now basically all my photos in the gallery app are gone
+Most of the photos are there in the photos app but I can't seem to find a way to get them back into my gallery app. My phone is a Samsung s21. All my photos were organised in different albums in my gallery app but now they just show up as one big folder in the Google photos app. As far as I know I've been backing up the albums in Google photos
+
+Weirdly my WhatsApp images and videos remained as normal in the gallery, but all my screenshot and camera photos are now scattered with around 9000 other photos in the Google app.
+
+Is there any procedure or process that un-""free up space""?",https://www.reddit.com/r/googlephotos/comments/qjlaqf/,7,googlephotos,reddit_post,,find screenshot,out_of_scope,high,,"The user is asking how to reverse the ""free up space"" action in Google Photos, not for locating a specific missing photo. This is a feature usage question, not an incomplete-memory retrieval scenario.",,,[],[],[],[]
+reddit,nak6r2,2021-05-12T08:59:45+00:00,"How to locate photos that are visible in the app, but have been deleted by me years back?
+Hi, I can see some screenshots that are in the app, but have been deleted from my device. I can see images I've deleted 2 years ago. So my question is, how can I find where these photos are stored? When I click on more details, it shows me the file name but not the location. I have been searching for a screenshot for a while now. Thanks :)",https://www.reddit.com/r/googlephotos/comments/nak6r2/,1,googlephotos,reddit_post,,find screenshot,in_scope,high,,"The user is trying to locate photos that are visible in Google Photos but cannot find them on their device, indicating incomplete memory of the photo’s location. This falls under incomplete‑memory retrieval for Google Photos.",,,"[""rough_time""]","[""keyword_filename""]","[""keyword_trial_and_error""]","[""How to locate photos that are visible in the app, but have been deleted by me years back?"", ""I can see some screenshots that are in the app, but have been deleted from my device."", ""I can see images I've deleted 2 years ago."", ""When I click on more details, it shows me the file name but not the location."", ""I have been searching for a screenshot for a while now.""]"

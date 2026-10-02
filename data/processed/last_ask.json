@@ -1,0 +1,93 @@
+{
+  "enough_evidence": true,
+  "answer": "When users can’t locate a photo, they usually try to recall specific details that should appear in the search index—most commonly the text that is visible in the image, the name of a person in the photo, or a location tag.  Users report that Google Photos often fails to surface screenshots or older photos even when they remember a word or a screen name that was clearly written in the image.  They also note that keyword searches that once returned many results (e.g., “haunted,” “scary,” or a university name) now return few or no photos, indicating that the system no longer reliably indexes those contextual clues.\n\nCitations: 1bgypnl, 1iaob2b, xenhgc, 1n00w5j",
+  "citation_ids": [
+    "1bgypnl",
+    "1iaob2b",
+    "xenhgc",
+    "1n00w5j"
+  ],
+  "limitations": "Answer is based on user reports of search failures; it does not cover all possible memory cues or technical reasons for missing results.",
+  "hits": [
+    {
+      "id": "1bgypnl",
+      "source": "reddit",
+      "relevance": "in_scope",
+      "confidence": "medium",
+      "failure_type": "not_indexed_not_found",
+      "url": "https://www.reddit.com/r/googlephotos/comments/1bgypnl/",
+      "text": "Search text in picture (OCR) not always working \nHello\nOne of the most common search that I do on Google photos is text that I remember is on the picture. I took a screenshot couple of weeks back, and I type a word I knew was there and google photos couldn't find it. I went back to find that screenshot and the word was clearly written.\nThis is just an example but I notice I have more and more fails from Google photo search, why isn't it consistent? How to improve it",
+      "score": 0.766
+    },
+    {
+      "id": "p55on7",
+      "source": "reddit",
+      "relevance": "out_of_scope",
+      "confidence": "high",
+      "failure_type": "",
+      "url": "https://www.reddit.com/r/googlephotos/comments/p55on7/",
+      "text": "Helpful hack: How I manually tag unrecognized people in my photos\nGoogle Photos does not currently allow manually tagging faces and frequently can't find some faces on the pictures. Here is a little trick I found to search for the unrecognized person's photos. \n\nSimply write names of unrecognized people in the description field. I personally write them exactly how I have them in my contacts. Now you can search for the name of the person and find their photos even if no faces were recognized on the photo. \n\nUnfortunately, the photos you manually named will not link to the person's profile but if you search their name in the search field the results will pop up. This is helpful especially with lower resolution or old photos. For example: I scanned all black/white photos of my great-grandmother. Most of faces were not recognized. However, I still can search her name and get all her photos now.",
+      "score": 0.7289
+    },
+    {
+      "id": "1iaob2b",
+      "source": "reddit",
+      "relevance": "in_scope",
+      "confidence": "medium",
+      "failure_type": "photo_type_mismatch",
+      "url": "https://www.reddit.com/r/googlephotos/comments/1iaob2b/",
+      "text": "is google photos search function limiting my searches to text so i cant find text in screenshots?\nidk why but i try to find a screenshot with a certain screenname or word but it never comes up .\n\ni search my own screenname and it comes up but never consistently or recently  \n\nmoreover even words clearly in the screenshot arent searchable especially in recent times and especially since i was able to do all of this very easily in the very recent past.\n\nwhat gives?",
+      "score": 0.7185
+    },
+    {
+      "id": "64c97a8f-7a66-4802-8fdd-dd9dbc1d4878",
+      "source": "play",
+      "relevance": "out_of_scope",
+      "confidence": "high",
+      "failure_type": "",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "text": "Earlier this app was good because earlier it had a search option, now when I look at any photo it takes a lot of time, earlier I used to search by writing the name of the photo. Nor is there any option to change the feature photo.",
+      "score": 0.6988
+    },
+    {
+      "id": "m4r1ol",
+      "source": "reddit",
+      "relevance": "out_of_scope",
+      "confidence": "high",
+      "failure_type": "",
+      "url": "https://www.reddit.com/r/googlephotos/comments/m4r1ol/",
+      "text": "Can anyone with the album link search the album?\nI've taken it upon myself to scan a bunch of old family photos and share with said family. Not every photo is relevant to everyone shared, so I was hoping that they could just find photos of them.\n\nIs it possible for people that the album has been shared with to search by name/face?",
+      "score": 0.6983
+    },
+    {
+      "id": "188kee8",
+      "source": "reddit",
+      "relevance": "in_scope",
+      "confidence": "high",
+      "failure_type": "wrong_results",
+      "url": "https://www.reddit.com/r/googlephotos/comments/188kee8/",
+      "text": "Any way to search for all photos \"Shared by a Google user\"?\nI have two accounts, one older and one newer. I had partner sharing setup from old -> new. In my new account, I had \"auto saved\" turned on.\n\nI've since disconnected the old account, but all the photos remain in the new account. In the details of these photos, it says \"Shared by a Google user\" and \"Saved to your photos\".\n\nI'd like to delete all these photos from my new account, but I can't figure out a way to isolate only the \"shared\" photos for deletion - they're all mixed in with the photos in the new account. I've tried using the search terms \"Shared by a Google user\" and \"Saved to your photos\" to no avail.\n\nAny ideas on how I can do this, without going through each photo one by one?",
+      "score": 0.6969
+    },
+    {
+      "id": "1n00w5j",
+      "source": "reddit",
+      "relevance": "in_scope",
+      "confidence": "high",
+      "failure_type": "wrong_results",
+      "url": "https://www.reddit.com/r/googlephotos/comments/1n00w5j/",
+      "text": "Google photos: I used to be able to search by person or location. Now the AI is AWFUL.\nIt was one or two years ago?\n\n You could just plug in a search term like a person's name if you had them labeled, but more useful was just plug in a location. Like \"University of Michigan\" \n\nAnd it would use the data it had and return you all kinds of photos with that location area tagged by your camera or your phone. \n\nAnd I'm talking *camera*, as in way back in the early 2000s some of my photos it would pull the location from my Canon. \n\nNow you can't search anymore It's all only AI. \n\nSo I tell AI \"show me photos from the University of Michigan\" and it will pull up one photo of the University of Michigan.\n\nAnd I will try to talk to it like I do chat GPT. I will say something like no I ask for all of my photos from this location. And it has no clue what I'm saying whatsoever. You can't communicate with it back and forth like Chat GPT.\n\nI mean it is complete shit. Just useless as all out. If the old system of search was a seven out of 10 it is literally a 2 out of 10. \n\nWHY. WHY WOULD YOU DO THAT",
+      "score": 0.6964
+    },
+    {
+      "id": "xenhgc",
+      "source": "reddit",
+      "relevance": "in_scope",
+      "confidence": "high",
+      "failure_type": "wrong_results",
+      "url": "https://www.reddit.com/r/googlephotos/comments/xenhgc/",
+      "text": "Keyword search function has decreased dramatically?\nExample: In 2017 I searched for the words \"haunted\", \"scary\" or \"creepy\" and I would get boatloads of results from my many photos. The results were fantastic in that I had several photos of things I'd uploaded that were indeed of an unsettling nature, such as an old creepy abandoned house, or pictures of a very impressive bonfire that had creepy surroundings, or a pile of thousands of dead bees I once took a picture of. These pictures had absolutely no keyword tags or naming conventions to indicate that they should be labeled as such. They just appeared in the formerly wonderful keyword search on Google Photos.\n\nNow, using the same keyword searches bring up nothing but screenshots that contain said keywords in text but nothing else. NOTHING else.\n\nThis really creepy rocking chair my brother found in his attic when he bought a house was always one of the top results when I searched using one of those keywords. I can still find the photo manually, but not with any keywords that formerly worked.\n\n\nAm I out of the loop? Has something happened?",
+      "score": 0.6957
+    }
+  ]
+}

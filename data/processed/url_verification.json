@@ -1,0 +1,159 @@
+{
+  "verified_at": "2026-10-02T16:24:14Z",
+  "checks": [
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "status_code": 200,
+      "ok": true,
+      "kind": "play_listing"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/google-photos-backup-edit/id962194608",
+      "status_code": 200,
+      "ok": true,
+      "kind": "app_store_listing"
+    },
+    {
+      "url": "https://www.reddit.com/r/googlephotos/comments/1r6b2bf/",
+      "status_code": 200,
+      "ok": true,
+      "kind": "reddit_thread",
+      "id": "1r6b2bf",
+      "note": "Live page check only; corpus fetch uses Arctic Shift comments/tree."
+    },
+    {
+      "url": "https://www.reddit.com/r/googlephotos/comments/1v3gsds/",
+      "status_code": 200,
+      "ok": true,
+      "kind": "reddit_thread",
+      "id": "1v3gsds",
+      "note": "Live page check only; corpus fetch uses Arctic Shift comments/tree."
+    },
+    {
+      "url": "https://www.reddit.com/r/googlephotos/comments/1ousytw/",
+      "status_code": 200,
+      "ok": true,
+      "kind": "reddit_thread",
+      "id": "1ousytw",
+      "note": "Live page check only; corpus fetch uses Arctic Shift comments/tree."
+    },
+    {
+      "url": "https://www.reddit.com/r/googlephotos/comments/1rrknab/",
+      "status_code": 200,
+      "ok": true,
+      "kind": "reddit_thread",
+      "id": "1rrknab",
+      "note": "Live page check only; corpus fetch uses Arctic Shift comments/tree."
+    },
+    {
+      "url": "https://www.reddit.com/r/googlephotos/comments/xl693t/",
+      "status_code": 200,
+      "ok": true,
+      "kind": "reddit_thread",
+      "id": "xl693t",
+      "note": "Live page check only; corpus fetch uses Arctic Shift comments/tree."
+    },
+    {
+      "url": "https://www.reddit.com/r/googlephotos/comments/1vcu3cs/",
+      "status_code": 200,
+      "ok": true,
+      "kind": "reddit_thread",
+      "id": "1vcu3cs",
+      "note": "Live page check only; corpus fetch uses Arctic Shift comments/tree."
+    },
+    {
+      "url": "https://www.reddit.com/r/googlephotos/comments/1ob8og4/",
+      "status_code": 200,
+      "ok": true,
+      "kind": "reddit_thread",
+      "id": "1ob8og4",
+      "note": "Live page check only; corpus fetch uses Arctic Shift comments/tree."
+    },
+    {
+      "url": "https://www.reddit.com/r/googlephotos/comments/1t5sam9/",
+      "status_code": 200,
+      "ok": true,
+      "kind": "reddit_thread",
+      "id": "1t5sam9",
+      "note": "Live page check only; corpus fetch uses Arctic Shift comments/tree."
+    },
+    {
+      "url": "https://www.reddit.com/r/googlephotos/comments/1liwoxl/",
+      "status_code": 200,
+      "ok": true,
+      "kind": "reddit_thread",
+      "id": "1liwoxl",
+      "note": "Live page check only; corpus fetch uses Arctic Shift comments/tree."
+    },
+    {
+      "url": "https://youtu.be/o44v9PZpH-I",
+      "status_code": 200,
+      "ok": true,
+      "kind": "youtube",
+      "id": "o44v9PZpH-I"
+    },
+    {
+      "url": "https://youtu.be/uCniTUeIB6k",
+      "status_code": 200,
+      "ok": true,
+      "kind": "youtube",
+      "id": "uCniTUeIB6k"
+    },
+    {
+      "url": "https://youtu.be/XiphLATSINM",
+      "status_code": 200,
+      "ok": true,
+      "kind": "youtube",
+      "id": "XiphLATSINM"
+    },
+    {
+      "url": "https://youtu.be/4DNQp3jgT8c",
+      "status_code": 200,
+      "ok": true,
+      "kind": "youtube",
+      "id": "4DNQp3jgT8c"
+    },
+    {
+      "url": "https://www.reddit.com/r/googlephotos/search/?q=find+old+photo&cId=fa081445-8d3c-46d9-a3d1-8b7c1f250c3b&iId=d536d9ff-cee0-4793-b46f-f6eeef2cf740",
+      "kind": "reddit_query",
+      "ok": null,
+      "note": "Not opened as live search; executed via Arctic Shift against allowed subreddits.",
+      "query": "find old photo"
+    },
+    {
+      "url": "https://www.reddit.com/search/?q=how+to+find+old+pictures+in+google+photo&cId=525e57f1-07e9-4170-acd8-bb9bbf7b8e02&iId=cde0e95c-5a90-449f-822b-66e60f027d40&tl=en",
+      "kind": "reddit_query",
+      "ok": null,
+      "note": "Not opened as live search; executed via Arctic Shift against allowed subreddits.",
+      "query": "how to find old pictures in google photo"
+    },
+    {
+      "url": "https://www.reddit.com/search/?q=google+photos+not+showing+photos+after+search+with+keyword&cId=41754428-d404-4926-80ef-8feb9114e533&iId=a14dcaae-1f5b-4eef-b41c-9f3111301225&tl=en",
+      "kind": "reddit_query",
+      "ok": null,
+      "note": "Not opened as live search; executed via Arctic Shift against allowed subreddits.",
+      "query": "google photos not showing photos after search with keyword"
+    },
+    {
+      "url": "https://www.reddit.com/search/?q=how+to+easily+find+specific+photo+in+google+photo+%2C+i+only+remeber+the+ocassion&cId=cf0e2868-94f2-48e9-9aa2-f430bb513b92&iId=bc5935e3-4b8f-4c12-8f1e-2160ec8b92fe&tl=en",
+      "kind": "reddit_query",
+      "ok": null,
+      "note": "Not opened as live search; executed via Arctic Shift against allowed subreddits.",
+      "query": "how to easily find specific photo in google photo , i only remeber the ocassion"
+    },
+    {
+      "url": "https://www.reddit.com/search/?q=search+photos+on+google+photos+in+more+than+10000+pictures+with+face+or+place+info+&cId=bf7f819f-a0c1-499c-84b1-be6c547096b9&iId=e9cc804f-64dc-4907-9725-ce78edd3b728&tl=en",
+      "kind": "reddit_query",
+      "ok": null,
+      "note": "Not opened as live search; executed via Arctic Shift against allowed subreddits.",
+      "query": "search photos on google photos in more than 10000 pictures with face or place info"
+    },
+    {
+      "url": "https://www.reddit.com/search/?q=google+photos+search&cId=69caf755-fc53-4384-92dd-7b58cfa016d6&iId=72406e1c-7a48-4902-9ec6-e7e5ea10bee6",
+      "kind": "reddit_query",
+      "ok": null,
+      "note": "Not opened as live search; executed via Arctic Shift against allowed subreddits.",
+      "query": "google photos search"
+    }
+  ]
+}
